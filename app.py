@@ -69,20 +69,22 @@ for div_countries in countries:
                         xt = xt+1
 
                         soup3 = get_soup(t_url)
-                        stadiums = soup3.find_all('a')
+                        div_stadium = soup3.find('div', id='middle_col')
+                        p_s  = div_stadium.find_all('p')
+                        stadiums = p_s[4].find('a')
                         s_items = []
-                        for a_stadiums in stadiums:
-                            href_stadiums = a_stadiums.get('href')
-                            if '/map_stadium/' in href_stadiums:
-                                s_url = "http://wildstat.ru" + href_stadiums
-                                stadium_links.append(s_url)
-                                print("\tStadium:"+str(xs)+s_url)
-                                xs = xs+1 
+                        #for a_stadiums in stadiums:
+                        href_stadiums = stadiums.get('href')
+                        if '/map_stadium/' in href_stadiums:
+                            s_url = "http://wildstat.ru" + href_stadiums
+                            stadium_links.append(s_url)
+                            print("\tStadium:"+str(xs)+s_url)
+                            xs = xs+1 
 
-                                s_item ={
-                                    's_url': s_url,
-                                }
-                                s_items.append(s_item)
+                            s_item ={
+                                's_url': s_url,
+                            }
+                            s_items.append(s_item)
 
 
                         t_item = {
