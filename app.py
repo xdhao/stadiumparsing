@@ -28,10 +28,21 @@ def dump_to_xlsx(filename, data):
 
         for col, h in enumerate(headers):
             ws.write_string(0, col, h, cell_format=bold)
-
-        for row, item in enumerate(data):
-            ws.write_string(row, 0, item['leagues']['staduims'][country_stad])
-          
+        
+        xwsw = 1
+        for item in data:
+            for val in item['leagues']:
+                for vl in val['teams']:
+                    for lv in vl['stadiums']:
+                        ws.write_string(xwsw, 0, lv['country_stad'])
+                        ws.write_string(xwsw, 1, lv['language'])
+                        ws.write_string(xwsw, 2, lv['stad_city'])
+                        ws.write_string(xwsw, 3, vl['club_name'])
+                        ws.write_string(xwsw, 4, val['league_name'])
+                        ws.write_string(xwsw, 5, lv['namestad'])
+                        ws.write_string(xwsw, 6, lv['spect_count'])
+                        ws.write_string(xwsw, 7, lv['stad_open'])
+                        xwsw = xwsw+1
 
 
 
@@ -59,18 +70,19 @@ xs = 0
 
 
 countries = soup.find_all('div', class_='dmn-left-g') # Страны в блоках div
+#for _, div_countries in zip(range(2), countries):
 for div_countries in countries:
     for a_countries in div_countries:
         href_countries = a_countries.get('href')
         c_url = "http://wildstat.ru" + href_countries 
-        country_links.append(c_url) # массив ссылок на страницы полного списка лиг отдельных стран
+        country_links.append(c_url) 
         print("\tSTRANA:"+str(xc)+c_url)
         xc = xc+1 
 
-        #for smn_country in country_links:
         soup1 = get_soup(c_url)
         leagues = soup1.find_all('div', class_='smn-left-g')
         l_items = []
+        #for _, div_leagues in zip(range(2), leagues):
         for div_leagues in leagues:
             for a_leagues in div_leagues:
                 href_leagues = a_leagues.get('href')
@@ -79,7 +91,6 @@ for div_countries in countries:
                 print("\tLIGA:"+str(xl)+l_url)
                 xl = xl+1 
                    
-                #for smn_league in league_links:
                 soup2 = get_soup(l_url)
                 league_name = soup2.find('h1').text
                 div_table = soup2.find('div', class_='content-rb')
@@ -114,9 +125,9 @@ for div_countries in countries:
                                             soup4 = get_soup(s_url)
                                             stad_table = soup4.find('table')
                                             s_td = stad_table.find_all('td')
-                                            for td in s_td:
+                                            for td in s_td:              
                                                 if td.find('h1'):
-                                                    namestad = td.find('h1').text
+                                                    namestad = td.find('h1').text                                              
                                                 if td.find('h2'):
                                                     geoloc = td.find('h2').text.split(",")
                                                     country_stad = geoloc[0]
@@ -126,17 +137,33 @@ for div_countries in countries:
                                                     stad_open = barr[0].text
                                                     if len(barr) > 1 :
                                                         spect_count = barr[1].text
-                                            if namestad and country_stad and stad_city and stad_open and spect_count:
-                                                s_item ={
-                                                    's_url': s_url,
-                                                    'namestad': namestad,
-                                                    'country_stad': country_stad,
-                                                    'stad_city': stad_city,
-                                                    'language': jsonObject[country_stad],
-                                                    'stad_open': stad_open, 
-                                                    'spect_count': spect_count,
-                                                }
+                                            if namestad and country_stad and stad_city:
+                                                if stad_open and spect_count:
+                                                    s_item ={
+                                                        's_url': s_url,
+                                                        'namestad': namestad,
+                                                        'country_stad': country_stad,
+                                                        'stad_city': stad_city,
+                                                        'language': jsonObject[country_stad],
+                                                        'stad_open': stad_open, 
+                                                        'spect_count': spect_count,
+                                                    }
+                                                else:
+                                                    s_item ={
+                                                        's_url': s_url,
+                                                        'namestad': namestad,
+                                                        'country_stad': country_stad,
+                                                        'stad_city': stad_city,
+                                                        'language': jsonObject[country_stad],
+                                                        'stad_open': ' ', 
+                                                        'spect_count': ' ',
+                                                    }                                                    
                                                 s_items.append(s_item)
+                                            namestad = ' '
+                                            country_stad = ' '
+                                            stad_city = ' '
+                                            stad_open = ' '
+                                            spect_count = ' '
                         t_item = {
                             't_url': t_url,
                             'stadiums': s_items,
@@ -154,11 +181,14 @@ for div_countries in countries:
             'leagues': l_items, 
         }
         c_items.append(c_item)                                        
-                                            
+
+'''                                           
 item = {
     'countries': c_items,
     }
 dump_to_json(OUT_FILENAME, item) 
+'''
+
 dump_to_xlsx(OUT_XLSX_FILENAME, c_items)  
 
 
