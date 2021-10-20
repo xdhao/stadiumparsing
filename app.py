@@ -1,7 +1,10 @@
 import requests, re, json
 from bs4 import BeautifulSoup
+import xlsxwriter
+
 
 OUT_FILENAME = 'out.json'
+OUT_XLSX_FILENAME = 'out.xlsx'
 f = open( "Страны и языки.json" , "rb" )
 jsonObject = json.load(f)
 f.close()
@@ -12,6 +15,24 @@ def dump_to_json(filename, data, **kwargs):
 
     with open(OUT_FILENAME, 'w', encoding='utf-8') as f:
         json.dump(data, f, **kwargs)
+
+def dump_to_xlsx(filename, data):
+    if not len(data):
+        return None
+    
+    with xlsxwriter.Workbook(filename) as workbook:
+        ws = workbook.add_worksheet()
+        bold = workbook.add_format({'bold': True})
+
+        headers = ['Страна', 'Язык', 'Город', 'Команда', 'Лига', 'Стадион', 'Вместимость', 'Открытие']
+
+        for col, h in enumerate(headers):
+            ws.write_string(0, col, h, cell_format=bold)
+
+        for row, item in enumerate(data):
+            ws.write_string(row, 0, item['leagues']['staduims'][country_stad])
+          
+
 
 
 def get_soup(url, **kwargs):
@@ -137,6 +158,7 @@ for div_countries in countries:
 item = {
     'countries': c_items,
     }
-dump_to_json(OUT_FILENAME, item)   
+dump_to_json(OUT_FILENAME, item) 
+dump_to_xlsx(OUT_XLSX_FILENAME, c_items)  
 
 
