@@ -1,0 +1,2158 @@
+{
+ "countries": [
+  {
+   "c_url": "http://wildstat.ru/p/20",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2004",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2004/club/RUS_Zenit_St_Petersburg",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1442"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2004/club/RUS_Lokomotiv_Moskva",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1502"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2003",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Gazovik_Orenburg",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1367"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Torpedo_Moskva",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1684"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Neftehimik_Nizhnekamsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1552"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Fakel_Voronezh",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1860"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Alania_Vladikavkaz",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1299"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_SKA-Energiya_Habarovsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1444"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Veles_Moscow",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6272"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Spartak-2_Moskva",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8725"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Akron_Tolyatti",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9979"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_KamAZ_Naberezhnye_Chelny",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1457"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Baltika_Kaliningrad",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9276"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Tom_Tomsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1712"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Metallurg_Krasnoyarsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1566"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_FK_Dolgoprudny",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7736"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Rotor_Volgograd",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1861"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_FK_Krasnodar-2",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8640"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Metallurg_Lipetsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1536"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Tekstilshchik_Ivanovo",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1659"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_FC_Urozhay_Krasnodar",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1484"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2003/club/RUS_Volgar_Astrahan",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1846"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2007",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_ASK_Rostov-on-Don",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1606"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Chaika_Peschanokopskoye",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9488"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Dinamo_Mahachkala",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1390"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Anzhi_Makhachkala",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1737"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Forte_Taganrog",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Chernomorets_Novorossiysk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1831"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Biolog_Novokubansk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6264"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Spartak_Nalchik",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1300"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Legion-Dynamo_Makhachkala",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1390"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Kuban-Holding_Pavlovskaya",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9166"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Mashuk_Pyatigorsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1835"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Tuapse",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Rotor-2_Volgograd",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1346"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Dynamo_Stavropol",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1399"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Druzhba_Maykop",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1849"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_Alania-2_Vladikavkaz",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Yessentuki",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10070"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2002",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2002/club/RUS_FK_Krasnodar",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8807"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2002/club/RUS_FC_Leningradets_Leningrad_Oblast",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8809"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2002/club/RUS_FC_Urozhay_Krasnodar",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1484"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2006",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2006/club/RUS_Himki",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1253"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2006/club/RUS_FK_Tambov",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1629"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2010",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2010/club/RUS_Spartak_Moskva",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7798"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2010/club/RUS_Petrotrest_St_Petersburg",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7884"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2010/club/RUS_Rubin_Kazan",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7797"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2010/club/RUS_Himki",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1253"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/21",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2104",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_FC_Metal_Kharkiv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7790"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Kryvbas_Kryvy_Ryh",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1533"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Alians_Lypova_Dolyna",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Obolon_Kyjv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2389"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Teplovyk_Ivano-Frankivsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1619"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Niva_Ternopol",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1839"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Olympic_Donetsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2517"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Podillya_Khmelnytskyi",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1575"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Polissya_Zhytomyr",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2349"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Hirnyk-Sport_Komsomolsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2531"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Volyn_Lutsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1324"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Kremen_Kremenchug",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6384"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_FC_Avanhard_Kramatorsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6436"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_Ahrobiznes_Volochysk",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_VPK-Ahro_Mahdalynivka",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2104/club/UKR_FK_Uzhhorod",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2376"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2105",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Livyi_Bereh_Kyiv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10097"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Karpaty_Lviv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4734"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Dinaz_Vyshhorod",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9768"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_LNZ-Lebedyn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9874"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Epitsentr_Dunaivtsi",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10073"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_MFA_Munkacs_Mukacheve",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6463"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Niva_Vinnytsya",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1489"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Karpaty_Halych",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2386"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Bukovina_Chernovtsy",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1351"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Chernihiv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10074"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Chaika_Kiev_Region",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9043"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Dnipro_Cherkasy",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2382"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Rubikon_Kyiv",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_AFSK_Kyiv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10232"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2105/club/UKR_Lyubomyr_Stavyshche",
+       "stadiums": []
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2102",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Alians_Lypova_Dolyna",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_FK_Lviv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4734"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_LNZ-Lebedyn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9874"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Dnipro-1_Dnipropetrovsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1545"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Metallist_Charkov",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1527"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Kolos_Kovalivka",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9272"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Rukh_Vynnyky",
+       "stadiums": []
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Zorya_Lugansk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1323"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Veres_Rovno",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1914"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Vorskla_Poltava",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1364"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Illichevets_Mariupol",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1433"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Dynamo_Kyjv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1285"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Chornomorets_Odesa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1758"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Shahtar_Donetsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2103"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_Metalist_1925_Kharkiv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1527"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2102/club/UKR_FK_Aleksandriya",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2365"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2103",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2103/club/UKR_Shahtar_Donetsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2103"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2103/club/UKR_Dynamo_Kyjv",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1285"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/78",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/75",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7503",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7503/club/ARM_Artsakh_FC_Yerevan",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7364"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7503/club/ARM_FC_Ararat-Armenia_Yerevan",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1295"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/28",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2802",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_BATE_Borisov",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7946"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_Torpedo_Zhodino",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1670"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_Dinamo_Minsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1391"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_FK_Homel",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1818"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_Neman_Grodno",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1551"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_Dnepr_Mogiliev",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1623"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_FK_Vitebsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1868"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2802/club/BLR_Dinamo_Brest",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1379"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2803",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2803/club/BLR_Shakhtsyor_Salihorsk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1651"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2803/club/BLR_BATE_Borisov",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7946"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/32",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3202",
+     "teams": []
+    },
+    {
+     "l_url": "http://wildstat.ru/p/3203",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3203/club/KAZ_Tobil_Qostanay",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1826"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3203/club/KAZ_Lokomotiv_Astana",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/3805"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/82",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8203",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8203/club/MDA_FC_Sfintul_Gheorghe_Suruceni",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5373"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8203/club/MDA_Sherif_Tiraspol",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1094"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/33",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3303/club/UZB_Lokomotiv_Tashkent",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4743"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3303/club/UZB_FK_Olmaliq",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8936"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/39",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3903/club/AUT_SV_Horn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7349"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3903/club/AUT_Rapid_Wien",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/449"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/23",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2304",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_AFC_Bournemouth",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2260"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_West_Bromwich_Albion",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1150"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Fulham",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/186"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Coventry_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2227"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Queens_Park_Rangers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/589"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Stoke_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/130"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Huddersfield_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2472"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Reading_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/600"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Luton_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2458"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Millwall",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1153"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Blackburn_Rovers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/412"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Nottingham_Forest",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/172"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Derby_County",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/763"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Bristol_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/73"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Middlesbrough",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1158"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Sheffield_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/127"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Blackpool_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/114"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/WAL_Swansea_City_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1152"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Preston_North_End_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2471"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Birmingham_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/866"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/WAL_Cardiff_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2667"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Hull_City_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/557"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Barnsley_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/697"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Peterborough_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2329"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2305",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Burnley",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1183"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Tottenham_Hotspur",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9854"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_West_Ham_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9453"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Manchester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1145"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Leicester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1221"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Brighton_Hove_Albion_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2229"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Preston_North_End_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2471"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Liverpool_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/52"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Stoke_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/130"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Brentford_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/463"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Arsenal_London",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/220"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Leeds_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/217"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Queens_Park_Rangers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/589"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Sunderland",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1105"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Chelsea_London",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1109"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Southampton",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2001"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2302",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Havant_and_Waterlooville_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5626"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Torquay_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2273"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/WAL_Wrexham_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/782"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Marine_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5542"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Gateshead_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5535"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Marske_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5986"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Guiseley_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5681"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Brackley_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2462"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_FC_Halifax_Town",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2512"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Pontefract_Collieries_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6021"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Morpeth_Town_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5992"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_York_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2443"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Buxton_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5581"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Kettering_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8770"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Stratford_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5776"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Boston_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2485"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Notts_County_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2267"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Tamworth_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5620"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Hayes_and_Yeading_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10192"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Dorking_Wanderers_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8656"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_St_Albans_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2669"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Corinthian-Casuals_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5451"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Weymouth_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2447"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Yeovil_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2331"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Folkestone_Invicta_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5489"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Eastleigh_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5725"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Yate_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5816"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Dover_Athletic_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5706"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2303/club/ENG_Leicester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1221"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2303/club/ENG_Manchester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1145"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/89",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8903/club/BEL_Club_Brugge_KV",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/523"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8903/club/BEL_KRC_Genk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/188"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/83",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8303/club/BUL_PFC_Ludogorets_Razgrad",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7657"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8303/club/BUL_CSKA_Sofia",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1355"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/72",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7203",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7203/club/HUN_FC_Fehervar",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/815"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7203/club/HUN_Ferencvaros_Budapest",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2111"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/25",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2503",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2503/club/GER_Borussia_Dortmund",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/842"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2503/club/GER_Bayern_Muenchen",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/44"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/30",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3002",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3002/club/HOL_Ajax_Amsterdam",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/49"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3002/club/HOL_PSV_Eindhoven",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/752"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/77",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7702",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7702/club/GEO_Dinamo_Tbilisi",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/122"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7702/club/GEO_FC_Gagra",
+       "stadiums": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/87",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/24",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2402",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2402/club/ESP_FC_Barcelona",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/140"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2402/club/ESP_Athletic_Bilbao",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8658"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/22",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2202",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2202/club/ITA_Juventus_Torino",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1017"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2202/club/ITA_SSC_Napoli",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1040"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/79",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7903/club/LAT_Daugava",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2994"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7903/club/LAT_Skonto_Riga",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/846"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/38",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3803",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3803/club/LTU_Zhalgiris_Vilnius",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1247"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3803/club/LTU_FK_Panevezys",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/88"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/88",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/37",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3702",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3702/club/POL_Legia_Warszawa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1082"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3702/club/POL_RKS_Rakow_Czestochowa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6712"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/27",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2703",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2703/club/POR_Sporting_CP_Lisboa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/256"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2703/club/POR_Sporting_Braga",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/258"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/81",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/86",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8603/club/SLO_Koper",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/3420"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8603/club/SLO_Maribor_Branik",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1065"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/26",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2603/club/FRA_Lille_OSC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/3718"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2603/club/FRA_Paris_St_Germain",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/735"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/85",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8503",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8503/club/CRO_Dinamo_Zagreb",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1067"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8503/club/CRO_FC_NK_Rijeka",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9449"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/80",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/35",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3502",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3502/club/CZE_FC_Viktoria_Plzen",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2201"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3502/club/CZE_FC_Slovan_Liberec",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1077"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/84",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8403",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8403/club/SWE_IFK_Norrkoeping",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/684"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8403/club/SWE_IFK_Goeteborg",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/441"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/29",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2905",
+     "teams": []
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/76",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7603/club/EST_Flora_Tallinn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/11"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7603/club/EST_Paide_Linnameeskond",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4642"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/34",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/31",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3103",
+     "teams": []
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/74",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/71",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/36",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3602",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3602/club/CHN_Shanghai_East_Asia_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2123"
+        }
+       ]
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3602/club/CHN_Beijing_Guoan_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1238"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/73",
+   "leagues": []
+  }
+ ]
+}
