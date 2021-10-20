@@ -75,24 +75,41 @@ for div_countries in countries:
                             if p_st.find('b'):
                                 b_text = p_st.find('b').text
                                 if 'Стадион:' in b_text:
-                                    indexp = idx
-                        if indexp:
-                            stadiums = p_s[indexp].find('a')
-                            s_items = []
-                            if stadiums:
-                                href_stadiums = stadiums.get('href')
-                                if '/map_stadium/' in href_stadiums:
-                                    s_url = "http://wildstat.ru" + href_stadiums
-                                    stadium_links.append(s_url)
-                                    print("\tStadium:"+str(xs)+s_url)
-                                    xs = xs+1 
+                                    stadiums = p_s[idx].find('a')
+                                    s_items = []
+                                    if stadiums:
+                                        href_stadiums = stadiums.get('href')
+                                        if '/map_stadium/' in href_stadiums:
+                                            s_url = "http://wildstat.ru" + href_stadiums
+                                            stadium_links.append(s_url)
+                                            print("\tStadium:"+str(xs)+s_url)
+                                            xs = xs+1
 
-                                    s_item ={
-                                        's_url': s_url,
-                                    }
-                                    s_items.append(s_item)
-
-
+                                            soup4 = get_soup(s_url)
+                                            stad_table = soup4.find('table')
+                                            s_td = stad_table.find_all('td')
+                                            for td in s_td:
+                                                if td.find('h1'):
+                                                    namestad = td.find('h1').text
+                                                if td.find('h2'):
+                                                    geoloc = td.find('h2').text.split(",")
+                                                    country_stad = geoloc[0]
+                                                    country_city = geoloc[1]
+                                                if td.find('b'):
+                                                    barr = td.find_all('b')
+                                                    stad_open = barr[0].text
+                                                    if len(barr) > 1 :
+                                                        spect_count = barr[1].text
+                                            if namestad and country_stad and country_city and stad_open and spect_count:
+                                                s_item ={
+                                                    's_url': s_url,
+                                                    'namestad': namestad,
+                                                    'country_stad': country_stad,
+                                                    'country_city': country_city,
+                                                    'stad_open': stad_open, 
+                                                    'spect_count': spect_count,
+                                                }
+                                                s_items.append(s_item)
                         t_item = {
                             't_url': t_url,
                             'stadiums': s_items,
@@ -115,52 +132,3 @@ item = {
 dump_to_json(OUT_FILENAME, item)   
 
 
-  
-'''
-
-tTable = soup.find('div', class_='content-rb')
-links = tTable.find_all('a')
-for link in links:
-    tag = link.get('href')
-    if '/club/' in tag:
-        url = "http://wildstat.ru/p/2001" + tag #2 ссылка
-        print(url) 
-    
-
-head = mainPage.find_all('a', class_='detail-link-text')
-startLink = head[0].get('href') # news/'id'.html
-splitArrayOne = startLink.split('/') # 'id'.html
-splitArrayTwo =  splitArrayOne[2].split('.') # 'id'
-startID = splitArrayTwo[0]
-
-
-for i in range(0, 40):
-    
-    url = "https://v102.ru/news/" + str(int(startID) - i) + ".html"#2 ссылка
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'lxml')
-    bigline = soup.find('div', class_='short-text')
-    headline = soup.find('div', class_='col-lg-11')
-    newsTimes = soup.find('span', class_='date-new')
-    
-    headline = headline.text #` заголовок
-    newsLine = bigline.text
-    newsLine =  re.sub("^\s+|\n|\r|\s+$", '', newsLine) #3 текст новости
-    newsTime = newsTimes.text #4   дата
-    if newsTime:
-        s1="".join(c for c in newsTime if c.isalpha()==False)
-        newsTime = s1
-    news_ = {
-    "headline":headline,
-    "text":newsLine,
-    "url":url,
-    "time":newsTime
-    }
-    if news.find_one({'headline': headline}) is None:
-        if news.find_one({'url': url}) is None:
-            if news.find_one({'time': newsTime}) is None:
-                news.insert_one(news_)
-                print('added entry to the database', i, url )
-    else:
-        print('entry already exists', i, url )
-'''  
