@@ -70,7 +70,7 @@ for div_countries in countries:
                         xt = xt+1
 
                         soup3 = get_soup(t_url)
-                        club_name = soup3.find('h1').text + soup3.find('h2').text
+                        club_name = soup3.find('h1').text + ' ' + soup3.find('h2').text
                         div_stadium = soup3.find('div', id='middle_col')
                         p_s  = div_stadium.find_all('p')
                         for idx, p_st in enumerate(p_s):                        
