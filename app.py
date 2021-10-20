@@ -7,7 +7,7 @@ def dump_to_json(filename, data, **kwargs):
     kwargs.setdefault('ensure_ascii', False)
     kwargs.setdefault('indent', 1)
 
-    with open(OUT_FILENAME, 'w') as f:
+    with open(OUT_FILENAME, 'w', encoding='utf-8') as f:
         json.dump(data, f, **kwargs)
 
 
@@ -57,6 +57,7 @@ for div_countries in countries:
                    
                 #for smn_league in league_links:
                 soup2 = get_soup(l_url)
+                league_name = soup2.find('h1').text
                 div_table = soup2.find('div', class_='content-rb')
                 teams = div_table.find_all('a')
                 t_items = []
@@ -69,6 +70,7 @@ for div_countries in countries:
                         xt = xt+1
 
                         soup3 = get_soup(t_url)
+                        club_name = soup3.find('h1').text + soup3.find('h2').text
                         div_stadium = soup3.find('div', id='middle_col')
                         p_s  = div_stadium.find_all('p')
                         for idx, p_st in enumerate(p_s):                        
@@ -113,11 +115,13 @@ for div_countries in countries:
                         t_item = {
                             't_url': t_url,
                             'stadiums': s_items,
+                            'club_name': club_name,
                         }    
                         t_items.append(t_item)               
                 l_item = {
                     'l_url': l_url,
                     'teams': t_items,
+                    'league_name': league_name,
                 }
                 l_items.append(l_item)
         c_item = {

@@ -11,28 +11,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1442",
-         "namestad": "������� �����-���������",
-         "country_stad": "������",
-         "country_city": " �����-���������",
+         "namestad": "Стадион Санкт-Петербург",
+         "country_stad": "Россия",
+         "country_city": " Санкт-Петербург",
          "stad_open": "1950",
          "spect_count": "68 134"
         }
-       ]
+       ],
+       "club_name": "ЗенитСанкт-Петербург"
       },
       {
        "t_url": "http://wildstat.ru/p/2004/club/RUS_Lokomotiv_Moskva",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1502",
-         "namestad": "��� �����",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "РЖД Арена",
+         "country_stad": "Россия",
+         "country_city": " Москва",
          "stad_open": "1935",
          "spect_count": "30 075"
         }
-       ]
+       ],
+       "club_name": "ЛокомотивМосква"
       }
-     ]
+     ],
+     "league_name": "Суперкубок России 2021"
     },
     {
      "l_url": "http://wildstat.ru/p/2003",
@@ -42,262 +45,283 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1367",
-         "namestad": "������� �������",
-         "country_stad": "������",
-         "country_city": " ��������",
+         "namestad": "Стадион Газовик",
+         "country_stad": "Россия",
+         "country_city": " Оренбург",
          "stad_open": "2002",
          "spect_count": "6 298"
         }
-       ]
+       ],
+       "club_name": "ФК ОренбургОренбург"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Torpedo_Moskva",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1684",
-         "namestad": "������� ������� ��. ������� ����������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Стадион Торпедо им. Эдуарда Стрельцова",
+         "country_stad": "Россия",
+         "country_city": " Москва",
          "stad_open": "1959",
          "spect_count": "14 274"
         }
-       ]
+       ],
+       "club_name": "ТорпедоМосква"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Neftehimik_Nizhnekamsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1552",
-         "namestad": "������� ����������",
-         "country_stad": "������",
-         "country_city": " ����������",
+         "namestad": "Стадион Нефтехимик",
+         "country_stad": "Россия",
+         "country_city": " Нижнекамск",
          "stad_open": "3 100",
          "spect_count": "14 274"
         }
-       ]
+       ],
+       "club_name": "НефтехимикНижнекамск"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Fakel_Voronezh",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1860",
-         "namestad": "����������� ������� ����������",
-         "country_stad": "������",
-         "country_city": " �������",
+         "namestad": "Центральный стадион Профсоюзов",
+         "country_stad": "Россия",
+         "country_city": " Воронеж",
          "stad_open": "1972",
          "spect_count": "31 743"
         }
-       ]
+       ],
+       "club_name": "ФакелВоронеж"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Alania_Vladikavkaz",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1299",
-         "namestad": "��������������� ������� �������",
-         "country_stad": "������",
-         "country_city": " �����������",
+         "namestad": "Республиканский стадион Спартак",
+         "country_stad": "Россия",
+         "country_city": " Владикавказ",
          "stad_open": "1962",
          "spect_count": "32 464"
         }
-       ]
+       ],
+       "club_name": "АланияВладикавказ"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_SKA-Energiya_Habarovsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1444",
-         "namestad": "������� ��. ������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион им. Ленина",
+         "country_stad": "Россия",
+         "country_city": " Хабаровск",
          "stad_open": "1956",
          "spect_count": "15 200"
         }
-       ]
+       ],
+       "club_name": "СКА-ХабаровскХабаровск"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Veles_Moscow",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/6272",
-         "namestad": "������� ������������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Стадион Автомобилист",
+         "country_stad": "Россия",
+         "country_city": " Москва",
          "stad_open": "1956",
          "spect_count": "15 200"
         }
-       ]
+       ],
+       "club_name": "ВелесМосква"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Spartak-2_Moskva",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/8725",
-         "namestad": "������� �������� �������� ��. �.�.���������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Стадион Академии Спартака им. Ф.Ф.Черенкова",
+         "country_stad": "Россия",
+         "country_city": " Москва",
          "stad_open": "2009",
          "spect_count": "15 200"
         }
-       ]
+       ],
+       "club_name": "Спартак-2Москва"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Akron_Tolyatti",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9979",
-         "namestad": "������� ��������",
-         "country_stad": "������",
-         "country_city": " ��������",
+         "namestad": "Стадион Кристалл",
+         "country_stad": "Россия",
+         "country_city": " Жигулёвск",
          "stad_open": "2009",
          "spect_count": "15 200"
         }
-       ]
+       ],
+       "club_name": "АкронТольятти"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_KamAZ_Naberezhnye_Chelny",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1457",
-         "namestad": "������� �����",
-         "country_stad": "������",
-         "country_city": " ���������� �����",
+         "namestad": "Стадион КАМАЗ",
+         "country_stad": "Россия",
+         "country_city": " Набережные Челны",
          "stad_open": "1977",
          "spect_count": "9 056"
         }
-       ]
+       ],
+       "club_name": "КАМАЗНабережные Челны"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Baltika_Kaliningrad",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9276",
-         "namestad": "������� �����������",
-         "country_stad": "������",
-         "country_city": " �����������",
+         "namestad": "Стадион Калининград",
+         "country_stad": "Россия",
+         "country_city": " Калининград",
          "stad_open": "2017",
          "spect_count": "35 000"
         }
-       ]
+       ],
+       "club_name": "БалтикаКалининград"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Tom_Tomsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1712",
-         "namestad": "������� ����",
-         "country_stad": "������",
-         "country_city": " �����",
+         "namestad": "Стадион Труд",
+         "country_stad": "Россия",
+         "country_city": " Томск",
          "stad_open": "1929",
          "spect_count": "15 000"
         }
-       ]
+       ],
+       "club_name": "ТомьТомск"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Metallurg_Krasnoyarsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1566",
-         "namestad": "����������� ������� ������������ �������",
-         "country_stad": "������",
-         "country_city": " ����������",
+         "namestad": "Центральный стадион олимпийского резерва",
+         "country_stad": "Россия",
+         "country_city": " Красноярск",
          "stad_open": "1967",
          "spect_count": "22 500"
         }
-       ]
+       ],
+       "club_name": "ЕнисейКрасноярск"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_FK_Dolgoprudny",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7736",
-         "namestad": "������� �����",
-         "country_stad": "������",
-         "country_city": " ������������",
+         "namestad": "Стадион Салют",
+         "country_stad": "Россия",
+         "country_city": " Долгопрудный",
          "stad_open": "6 000",
          "spect_count": "22 500"
         }
-       ]
+       ],
+       "club_name": "Олимп-ДолгопрудныйДолгопрудный"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Rotor_Volgograd",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1861",
-         "namestad": "���������-�����",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Волгоград-Арена",
+         "country_stad": "Россия",
+         "country_city": " Волгоград",
          "stad_open": "1964",
          "spect_count": "32 120"
         }
-       ]
+       ],
+       "club_name": "РоторВолгоград"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_FK_Krasnodar-2",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/8640",
-         "namestad": "������� �������� �� ��������� (2012)",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Академии ФК Краснодар (2012)",
+         "country_stad": "Россия",
+         "country_city": " Краснодар",
          "stad_open": "2012",
          "spect_count": "2 366"
         }
-       ]
+       ],
+       "club_name": "ФК Краснодар-2Краснодар"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Metallurg_Lipetsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1536",
-         "namestad": "������� ���������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Стадион Металлург",
+         "country_stad": "Россия",
+         "country_city": " Липецк",
          "stad_open": "14 830",
          "spect_count": "2 366"
         }
-       ]
+       ],
+       "club_name": "МеталлургЛипецк"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Tekstilshchik_Ivanovo",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1659",
-         "namestad": "������� �����������",
-         "country_stad": "������",
-         "country_city": " �������",
+         "namestad": "Стадион Текстильщик",
+         "country_stad": "Россия",
+         "country_city": " Иваново",
          "stad_open": "1933",
          "spect_count": "5 400"
         }
-       ]
+       ],
+       "club_name": "ТекстильщикИваново"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_FC_Urozhay_Krasnodar",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1484",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Кубань",
+         "country_stad": "Россия",
+         "country_city": " Краснодар",
          "stad_open": "1960",
          "spect_count": "34 640"
         }
-       ]
+       ],
+       "club_name": "КубаньКраснодар"
       },
       {
        "t_url": "http://wildstat.ru/p/2003/club/RUS_Volgar_Astrahan",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1846",
-         "namestad": "����������� �������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Россия",
+         "country_city": " Астрахань",
          "stad_open": "1955",
          "spect_count": "20 500"
         }
-       ]
+       ],
+       "club_name": "ВолгарьАстрахань"
       }
-     ]
+     ],
+     "league_name": "Чемпионат России 2021/22"
     },
     {
      "l_url": "http://wildstat.ru/p/2007",
@@ -307,223 +331,241 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1606",
-         "namestad": "������� ���",
-         "country_stad": "������",
-         "country_city": " ������-��-����",
+         "namestad": "Стадион СКА",
+         "country_stad": "Россия",
+         "country_city": " Ростов-на-Дону",
          "stad_open": "1971",
          "spect_count": "25 000"
         }
-       ]
+       ],
+       "club_name": "СКАРостов-на-Дону"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Chaika_Peschanokopskoye",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9488",
-         "namestad": "����������� ������� ��. �.�.�����",
-         "country_stad": "������",
-         "country_city": " ��������������",
+         "namestad": "Центральный стадион им. И.П.Чайки",
+         "country_stad": "Россия",
+         "country_city": " Песчанокопское",
          "stad_open": "2 500",
          "spect_count": "25 000"
         }
-       ]
+       ],
+       "club_name": "ЧайкаПесчанокопское"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Dinamo_Mahachkala",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1390",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Динамо",
+         "country_stad": "Россия",
+         "country_city": " Махачкала",
          "stad_open": "1927",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "ДинамоМахачкала"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Anzhi_Makhachkala",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1737",
-         "namestad": "����-�����",
-         "country_stad": "������",
-         "country_city": " ��������",
+         "namestad": "Анжи-Арена",
+         "country_stad": "Россия",
+         "country_city": " Каспийск",
          "stad_open": "2003",
          "spect_count": "31 000"
         }
-       ]
+       ],
+       "club_name": "АнжиМахачкала"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Forte_Taganrog",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1737",
-         "namestad": "����-�����",
-         "country_stad": "������",
-         "country_city": " ��������",
+         "namestad": "Анжи-Арена",
+         "country_stad": "Россия",
+         "country_city": " Каспийск",
          "stad_open": "2003",
          "spect_count": "31 000"
         }
-       ]
+       ],
+       "club_name": "ФортеТаганрог"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Chernomorets_Novorossiysk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1831",
-         "namestad": "����������� �������",
-         "country_stad": "������",
-         "country_city": " ������������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Россия",
+         "country_city": " Новороссийск",
          "stad_open": "1930",
          "spect_count": "12 910"
         }
-       ]
+       ],
+       "club_name": "ЧерноморецНовороссийск"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Biolog_Novokubansk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/6264",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ��������",
+         "namestad": "Стадион Биолог",
+         "country_stad": "Россия",
+         "country_city": " Прогресс",
          "stad_open": "1995",
          "spect_count": "2 300"
         }
-       ]
+       ],
+       "club_name": "Биолог-НовокубанскПрогресс"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Spartak_Nalchik",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1300",
-         "namestad": "��������������� ������� �������",
-         "country_stad": "������",
-         "country_city": " �������",
+         "namestad": "Республиканский стадион Спартак",
+         "country_stad": "Россия",
+         "country_city": " Нальчик",
          "stad_open": "1960",
          "spect_count": "14 384"
         }
-       ]
+       ],
+       "club_name": "Спартак-НальчикНальчик"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Legion-Dynamo_Makhachkala",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1390",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Динамо",
+         "country_stad": "Россия",
+         "country_city": " Махачкала",
          "stad_open": "1927",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "Легион-ДинамоМахачкала"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Kuban-Holding_Pavlovskaya",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9166",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ����������",
+         "namestad": "Стадион Урожай",
+         "country_stad": "Россия",
+         "country_city": " Павловская",
          "stad_open": "1927",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "Кубань-ХолдингПавловская"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Mashuk_Pyatigorsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1835",
-         "namestad": "����������� �������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Россия",
+         "country_city": " Пятигорск",
          "stad_open": "10 300",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "Машук-КМВПятигорск"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Tuapse",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1835",
-         "namestad": "����������� �������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Россия",
+         "country_city": " Пятигорск",
          "stad_open": "10 300",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "ФК ТуапсеТуапсе"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Rotor-2_Volgograd",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1346",
-         "namestad": "������� �����",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Зенит",
+         "country_stad": "Россия",
+         "country_city": " Волгоград",
          "stad_open": "4 000",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "Ротор-2Волгоград"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Dynamo_Stavropol",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1399",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ����������",
+         "namestad": "Стадион Динамо",
+         "country_stad": "Россия",
+         "country_city": " Ставрополь",
          "stad_open": "15 817",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "ДинамоСтаврополь"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Druzhba_Maykop",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1849",
-         "namestad": "����������� ������� ������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Центральный стадион Дружба",
+         "country_stad": "Россия",
+         "country_city": " Майкоп",
          "stad_open": "7 000",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "ДружбаМайкоп"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_Alania-2_Vladikavkaz",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1849",
-         "namestad": "����������� ������� ������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Центральный стадион Дружба",
+         "country_stad": "Россия",
+         "country_city": " Майкоп",
          "stad_open": "7 000",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "Алания-2Владикавказ"
       },
       {
        "t_url": "http://wildstat.ru/p/2007/club/RUS_FK_Yessentuki",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/10070",
-         "namestad": "���������-�����",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Ессентуки-Арена",
+         "country_stad": "Россия",
+         "country_city": " Ессентуки",
          "stad_open": "7 000",
          "spect_count": "16 100"
         }
-       ]
+       ],
+       "club_name": "ФК ЕссентукиЕссентуки"
       }
-     ]
+     ],
+     "league_name": "Чемпионат России 2021/22, второй дивизион"
     },
     {
      "l_url": "http://wildstat.ru/p/2002",
@@ -533,41 +575,45 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/8807",
-         "namestad": "������� �� ���������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион ФК Краснодар",
+         "country_stad": "Россия",
+         "country_city": " Краснодар",
          "stad_open": "2016",
          "spect_count": "33 979"
         }
-       ]
+       ],
+       "club_name": "ФК КраснодарКраснодар"
       },
       {
        "t_url": "http://wildstat.ru/p/2002/club/RUS_FC_Leningradets_Leningrad_Oblast",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/8809",
-         "namestad": "���� �����",
-         "country_stad": "������",
-         "country_city": " �����-���������",
+         "namestad": "Нова Арена",
+         "country_stad": "Россия",
+         "country_city": " Санкт-Петербург",
          "stad_open": "2010",
          "spect_count": "1 500"
         }
-       ]
+       ],
+       "club_name": "ЛенинградецЛенинградская область"
       },
       {
        "t_url": "http://wildstat.ru/p/2002/club/RUS_FC_Urozhay_Krasnodar",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1484",
-         "namestad": "������� ������",
-         "country_stad": "������",
-         "country_city": " ���������",
+         "namestad": "Стадион Кубань",
+         "country_stad": "Россия",
+         "country_city": " Краснодар",
          "stad_open": "1960",
          "spect_count": "34 640"
         }
-       ]
+       ],
+       "club_name": "КубаньКраснодар"
       }
-     ]
+     ],
+     "league_name": "Кубок России 2021/22"
     },
     {
      "l_url": "http://wildstat.ru/p/2006",
@@ -577,28 +623,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1253",
-         "namestad": "����� �����",
-         "country_stad": "������",
-         "country_city": " �����",
+         "namestad": "Арена Химки",
+         "country_stad": "Россия",
+         "country_city": " Химки",
          "stad_open": "1965",
          "spect_count": "18 636"
         }
-       ]
+       ],
+       "club_name": "ФК ХимкиХимки"
       },
       {
        "t_url": "http://wildstat.ru/p/2006/club/RUS_FK_Tambov",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1629",
-         "namestad": "������� �������",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Стадион Спартак",
+         "country_stad": "Россия",
+         "country_city": " Тамбов",
          "stad_open": "1960",
          "spect_count": "8 000"
         }
-       ]
+       ],
+       "club_name": "ФК ТамбовТамбов"
       }
-     ]
+     ],
+     "league_name": "Кубок ФНЛ 2020"
     },
     {
      "l_url": "http://wildstat.ru/p/2010",
@@ -608,54 +657,59 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7798",
-         "namestad": "�������� ���� �����",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Открытие Банк Арена",
+         "country_stad": "Россия",
+         "country_city": " Москва",
          "stad_open": "2014",
          "spect_count": "44 929"
         }
-       ]
+       ],
+       "club_name": "СпартакМосква"
       },
       {
        "t_url": "http://wildstat.ru/p/2010/club/RUS_Petrotrest_St_Petersburg",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7884",
-         "namestad": "����������� ������� ����",
-         "country_stad": "������",
-         "country_city": " ����",
+         "namestad": "Олимпийский стадион Фишт",
+         "country_stad": "Россия",
+         "country_city": " Сочи",
          "stad_open": "2013",
          "spect_count": "45 659"
         }
-       ]
+       ],
+       "club_name": "ФК СочиСочи"
       },
       {
        "t_url": "http://wildstat.ru/p/2010/club/RUS_Rubin_Kazan",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7797",
-         "namestad": "�� ���� �����",
-         "country_stad": "������",
-         "country_city": " ������",
+         "namestad": "Ак Барс Арена",
+         "country_stad": "Россия",
+         "country_city": " Казань",
          "stad_open": "2013",
          "spect_count": "45 105"
         }
-       ]
+       ],
+       "club_name": "РубинКазань"
       },
       {
        "t_url": "http://wildstat.ru/p/2010/club/RUS_Himki",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1253",
-         "namestad": "����� �����",
-         "country_stad": "������",
-         "country_city": " �����",
+         "namestad": "Арена Химки",
+         "country_stad": "Россия",
+         "country_city": " Химки",
          "stad_open": "1965",
          "spect_count": "18 636"
         }
-       ]
+       ],
+       "club_name": "ФК ХимкиХимки"
       }
-     ]
+     ],
+     "league_name": "Кубок Матч Премьер 2021"
     }
    ]
   },
@@ -670,183 +724,200 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7790",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Солнечный",
+         "country_stad": "Украина",
+         "country_city": " Харьков",
          "stad_open": "2012",
          "spect_count": "5 000"
         }
-       ]
+       ],
+       "club_name": "МеталлистХарьков"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Kryvbas_Kryvy_Ryh",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1533",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " ������ ���",
+         "namestad": "Стадион Металлург",
+         "country_stad": "Украина",
+         "country_city": " Кривой Рог",
          "stad_open": "29 782",
          "spect_count": "5 000"
         }
-       ]
+       ],
+       "club_name": "КривбассКривой Рог"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Alians_Lypova_Dolyna",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "АльянсЛиповая Долина"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Obolon_Kyjv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2389",
-         "namestad": "������� �������",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "namestad": "Стадион Оболонь",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "2005",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "ОболоньКиев"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Teplovyk_Ivano-Frankivsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1619",
-         "namestad": "������� ���",
-         "country_stad": "�������",
-         "country_city": " �����-���������",
+         "namestad": "Стадион Рух",
+         "country_stad": "Украина",
+         "country_city": " Ивано-Франковск",
          "stad_open": "16 000",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "ПрикарпатьеИвано-Франковск"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Niva_Ternopol",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1839",
-         "namestad": "��������� �������",
-         "country_stad": "�������",
-         "country_city": " ���������",
+         "namestad": "Городской стадион",
+         "country_stad": "Украина",
+         "country_city": " Тернополь",
          "stad_open": "18 500",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "НиваТернополь"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Olympic_Donetsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2517",
-         "namestad": "�� �������",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "СК Олимпик",
+         "country_stad": "Украина",
+         "country_city": " Донецк",
          "stad_open": "1 000",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "ОлимпикДонецк"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Podillya_Khmelnytskyi",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1575",
-         "namestad": "������� �������",
-         "country_stad": "�������",
-         "country_city": " �����������",
+         "namestad": "Стадион Подолье",
+         "country_stad": "Украина",
+         "country_city": " Хмельницкий",
          "stad_open": "10 000",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "ПодольеХмельницкий"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Polissya_Zhytomyr",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2349",
-         "namestad": "������� �������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Спартак",
+         "country_stad": "Украина",
+         "country_city": " Житомир",
          "stad_open": "10 000",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "ПолесьеЖитомир"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Hirnyk-Sport_Komsomolsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2531",
-         "namestad": "������� ������",
-         "country_stad": "�������",
-         "country_city": " �������� ������",
+         "namestad": "Стадион Юность",
+         "country_stad": "Украина",
+         "country_city": " Горишние Плавни",
          "stad_open": "10 000",
          "spect_count": "4 305"
         }
-       ]
+       ],
+       "club_name": "Горняк-СпортГоришние Плавни"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Volyn_Lutsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1324",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Луцк",
          "stad_open": "1960",
          "spect_count": "11 756"
         }
-       ]
+       ],
+       "club_name": "ВолыньЛуцк"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Kremen_Kremenchug",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/6384",
-         "namestad": "�������-����� ��. ����� �������",
-         "country_stad": "�������",
-         "country_city": " ���������",
+         "namestad": "Кремень-Арена им. Олега Бабаева",
+         "country_stad": "Украина",
+         "country_city": " Кременчуг",
          "stad_open": "2010",
          "spect_count": "1 500"
         }
-       ]
+       ],
+       "club_name": "КременьКременчуг"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_FC_Avanhard_Kramatorsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/6436",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " ����������",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Краматорск",
          "stad_open": "1936",
          "spect_count": "4 000"
         }
-       ]
+       ],
+       "club_name": "ФК КраматорскКраматорск"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_Ahrobiznes_Volochysk",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "АгробизнесВолочиск"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_VPK-Ahro_Mahdalynivka",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "ВПК-АгроМагдалиновка"
       },
       {
        "t_url": "http://wildstat.ru/p/2104/club/UKR_FK_Uzhhorod",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2376",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Ужгород",
          "stad_open": "12 000",
          "spect_count": "4 000"
         }
-       ]
+       ],
+       "club_name": "ФК УжгородУжгород"
       }
-     ]
+     ],
+     "league_name": "Чемпионат Украины 2021/22"
     },
     {
      "l_url": "http://wildstat.ru/p/2105",
@@ -856,160 +927,173 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/10097",
-         "namestad": "����� ����� �����",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "namestad": "Арена Левый Берег",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "12 000",
          "spect_count": "4 000"
         }
-       ]
+       ],
+       "club_name": "Левый берегКиев"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Karpaty_Lviv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/4734",
-         "namestad": "�����-�����",
-         "country_stad": "�������",
-         "country_city": " �����",
+         "namestad": "Арена-Львов",
+         "country_stad": "Украина",
+         "country_city": " Львов",
          "stad_open": "2011",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "КарпатыЛьвов"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Dinaz_Vyshhorod",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9768",
-         "namestad": "������� �����",
-         "country_stad": "�������",
-         "country_city": " �����",
+         "namestad": "Стадион Диназ",
+         "country_stad": "Украина",
+         "country_city": " Лютеж",
          "stad_open": "2011",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "ДиназВышгород"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_LNZ-Lebedyn",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9874",
-         "namestad": "���-�����",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "ЛНЗ-Арена",
+         "country_stad": "Украина",
+         "country_city": " Лебедин",
          "stad_open": "376",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "ЛНЗЧеркассы"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Epitsentr_Dunaivtsi",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/10073",
-         "namestad": "������� �����",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Стадион Колос",
+         "country_stad": "Украина",
+         "country_city": " Дунаевцы",
          "stad_open": "2 500",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "ЭпицентрДунаевцы"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_MFA_Munkacs_Mukacheve",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/6463",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Мукачево",
          "stad_open": "2 500",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "МункачМукачево"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Niva_Vinnytsya",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1489",
-         "namestad": "����������� ��������� �������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Центральный городской стадион",
+         "country_stad": "Украина",
+         "country_city": " Винница",
          "stad_open": "1959",
          "spect_count": "14 000"
         }
-       ]
+       ],
+       "club_name": "НиваВинница"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Karpaty_Halych",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2386",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Энергетик",
+         "country_stad": "Украина",
+         "country_city": " Бурштын",
          "stad_open": "5 000",
          "spect_count": "14 000"
         }
-       ]
+       ],
+       "club_name": "КарпатыГалич"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Bukovina_Chernovtsy",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1351",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Стадион Буковина",
+         "country_stad": "Украина",
+         "country_city": " Черновцы",
          "stad_open": "1967",
          "spect_count": "12 000"
         }
-       ]
+       ],
+       "club_name": "БуковинаЧерновцы"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Chernihiv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/10074",
-         "namestad": "��������-�����",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Чернигов-Арена",
+         "country_stad": "Украина",
+         "country_city": " Чернигов",
          "stad_open": "2017",
          "spect_count": "500"
         }
-       ]
+       ],
+       "club_name": "ФК ЧерниговЧернигов"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Chaika_Kiev_Region",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9043",
-         "namestad": "�����-�����",
-         "country_stad": "�������",
-         "country_city": " ��������������� ����������",
+         "namestad": "Казак-Арена",
+         "country_stad": "Украина",
+         "country_city": " Петропавловская Борщаговка",
          "stad_open": "2017",
          "spect_count": "500"
         }
-       ]
+       ],
+       "club_name": "ЧайкаПетропавловская Борщаговка"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Dnipro_Cherkasy",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2382",
-         "namestad": "������� �����������",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Стадион Центральный",
+         "country_stad": "Украина",
+         "country_city": " Черкассы",
          "stad_open": "1967",
          "spect_count": "10 321"
         }
-       ]
+       ],
+       "club_name": "ДнепрЧеркассы"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_FC_Rubikon_Kyiv",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "РубиконКиев"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_AFSK_Kyiv",
@@ -1017,12 +1101,13 @@
         {
          "s_url": "http://wildstat.ru/map_stadium/10232",
          "namestad": "Urban Sity Sport Arsenal",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "1967",
          "spect_count": "10 321"
         }
-       ]
+       ],
+       "club_name": "АФСККиев"
       },
       {
        "t_url": "http://wildstat.ru/p/2105/club/UKR_Lyubomyr_Stavyshche",
@@ -1030,209 +1115,228 @@
         {
          "s_url": "http://wildstat.ru/map_stadium/10232",
          "namestad": "Urban Sity Sport Arsenal",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "1967",
          "spect_count": "10 321"
         }
-       ]
+       ],
+       "club_name": "ЛюбомирСтавище"
       }
-     ]
+     ],
+     "league_name": "Чемпионат Украины 2021/22, вторая лига"
     },
     {
      "l_url": "http://wildstat.ru/p/2102",
      "teams": [
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Alians_Lypova_Dolyna",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "АльянсЛиповая Долина"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_FK_Lviv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/4734",
-         "namestad": "�����-�����",
-         "country_stad": "�������",
-         "country_city": " �����",
+         "namestad": "Арена-Львов",
+         "country_stad": "Украина",
+         "country_city": " Львов",
          "stad_open": "2011",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "ФК ЛьвовЛьвов"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_LNZ-Lebedyn",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9874",
-         "namestad": "���-�����",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "ЛНЗ-Арена",
+         "country_stad": "Украина",
+         "country_city": " Лебедин",
          "stad_open": "376",
          "spect_count": "33 400"
         }
-       ]
+       ],
+       "club_name": "ЛНЗЧеркассы"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Dnipro-1_Dnipropetrovsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1545",
-         "namestad": "������� ������",
-         "country_stad": "�������",
-         "country_city": " �����",
+         "namestad": "Стадион Метеор",
+         "country_stad": "Украина",
+         "country_city": " Днепр",
          "stad_open": "1967",
          "spect_count": "24 401"
         }
-       ]
+       ],
+       "club_name": "Днепр-1Днепр"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Metallist_Charkov",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1527",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Металлист",
+         "country_stad": "Украина",
+         "country_city": " Харьков",
          "stad_open": "1927",
          "spect_count": "40 126"
         }
-       ]
+       ],
+       "club_name": "МеталлистХарьков"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Kolos_Kovalivka",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/9272",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " ��������",
+         "namestad": "Стадион Ковалевка",
+         "country_stad": "Украина",
+         "country_city": " Ковалёвка",
          "stad_open": "1927",
          "spect_count": "40 126"
         }
-       ]
+       ],
+       "club_name": "КолосКовалёвка"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Rukh_Vynnyky",
-       "stadiums": []
+       "stadiums": [],
+       "club_name": "РухВинники"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Zorya_Lugansk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1323",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Луганск",
          "stad_open": "1951",
          "spect_count": "22 179"
         }
-       ]
+       ],
+       "club_name": "ЗаряЛуганск"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Veres_Rovno",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1914",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " �����",
+         "namestad": "Стадион Авангард",
+         "country_stad": "Украина",
+         "country_city": " Ровно",
          "stad_open": "4 500",
          "spect_count": "22 179"
         }
-       ]
+       ],
+       "club_name": "ВересРовно"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Vorskla_Poltava",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1364",
-         "namestad": "������� ������� ��. ������� ����������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Ворскла им. Алексея Бутовского",
+         "country_stad": "Украина",
+         "country_city": " Полтава",
          "stad_open": "1913",
          "spect_count": "24 810"
         }
-       ]
+       ],
+       "club_name": "ВорсклаПолтава"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Illichevets_Mariupol",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1433",
-         "namestad": "������� ����� ��������� �����",
-         "country_stad": "�������",
-         "country_city": " ���������",
+         "namestad": "Стадион имени Владимира Бойко",
+         "country_stad": "Украина",
+         "country_city": " Мариуполь",
          "stad_open": "12 680",
          "spect_count": "24 810"
         }
-       ]
+       ],
+       "club_name": "ФК МариупольМариуполь"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Dynamo_Kyjv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1285",
-         "namestad": "��� �����������",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "namestad": "НСК Олимпийский",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "1948",
          "spect_count": "83 450"
         }
-       ]
+       ],
+       "club_name": "ДинамоКиев"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Chornomorets_Odesa",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1758",
-         "namestad": "������� ����������",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "Стадион Черноморец",
+         "country_stad": "Украина",
+         "country_city": " Одесса",
          "stad_open": "1935",
          "spect_count": "34 164"
         }
-       ]
+       ],
+       "club_name": "ЧерноморецОдесса"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Shahtar_Donetsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2103",
-         "namestad": "������� �����",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "Донбасс Арена",
+         "country_stad": "Украина",
+         "country_city": " Донецк",
          "stad_open": "2009",
          "spect_count": "50 149"
         }
-       ]
+       ],
+       "club_name": "ШахтерДонецк"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_Metalist_1925_Kharkiv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1527",
-         "namestad": "������� ���������",
-         "country_stad": "�������",
-         "country_city": " �������",
+         "namestad": "Стадион Металлист",
+         "country_stad": "Украина",
+         "country_city": " Харьков",
          "stad_open": "1927",
          "spect_count": "40 126"
         }
-       ]
+       ],
+       "club_name": "Металлист 1925Харьков"
       },
       {
        "t_url": "http://wildstat.ru/p/2102/club/UKR_FK_Aleksandriya",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2365",
-         "namestad": "��� ����",
-         "country_stad": "�������",
-         "country_city": " �����������",
+         "namestad": "КСК Ника",
+         "country_stad": "Украина",
+         "country_city": " Александрия",
          "stad_open": "5 692",
          "spect_count": "40 126"
         }
-       ]
+       ],
+       "club_name": "ФК АлександрияАлександрия"
       }
-     ]
+     ],
+     "league_name": "Кубок Украины 2021/22"
     },
     {
      "l_url": "http://wildstat.ru/p/2103",
@@ -1242,28 +1346,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/2103",
-         "namestad": "������� �����",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "Донбасс Арена",
+         "country_stad": "Украина",
+         "country_city": " Донецк",
          "stad_open": "2009",
          "spect_count": "50 149"
         }
-       ]
+       ],
+       "club_name": "ШахтерДонецк"
       },
       {
        "t_url": "http://wildstat.ru/p/2103/club/UKR_Dynamo_Kyjv",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1285",
-         "namestad": "��� �����������",
-         "country_stad": "�������",
-         "country_city": " ����",
+         "namestad": "НСК Олимпийский",
+         "country_stad": "Украина",
+         "country_city": " Киев",
          "stad_open": "1948",
          "spect_count": "83 450"
         }
-       ]
+       ],
+       "club_name": "ДинамоКиев"
       }
-     ]
+     ],
+     "league_name": "Суперкубок Украины 2021"
     }
    ]
   },
@@ -1282,28 +1389,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7364",
-         "namestad": "������� ��������",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "Стадион Алашкерт",
+         "country_stad": "Армения",
+         "country_city": " Ереван",
          "stad_open": "6 850",
          "spect_count": "83 450"
         }
-       ]
+       ],
+       "club_name": "НоахЕреван"
       },
       {
        "t_url": "http://wildstat.ru/p/7503/club/ARM_FC_Ararat-Armenia_Yerevan",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1295",
-         "namestad": "��������������� ������� ��. ������� ���������",
-         "country_stad": "�������",
-         "country_city": " ������",
+         "namestad": "Республиканский стадион им. Вазгена Саркисяна",
+         "country_stad": "Армения",
+         "country_city": " Ереван",
          "stad_open": "1938",
          "spect_count": "15 000"
         }
-       ]
+       ],
+       "club_name": "Арарат-АрменияЕреван"
       }
-     ]
+     ],
+     "league_name": "Суперкубок Армении 2020"
     }
    ]
   },
@@ -1318,106 +1428,115 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7946",
-         "namestad": "�������-�����",
-         "country_stad": "����������",
-         "country_city": " �������",
+         "namestad": "Борисов-Арена",
+         "country_stad": "Белоруссия",
+         "country_city": " Борисов",
          "stad_open": "2014",
          "spect_count": "13 126"
         }
-       ]
+       ],
+       "club_name": "БАТЭБорисов"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_Torpedo_Zhodino",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1670",
-         "namestad": "������� �������",
-         "country_stad": "����������",
-         "country_city": " ������",
+         "namestad": "Стадион Торпедо",
+         "country_stad": "Белоруссия",
+         "country_city": " Жодино",
          "stad_open": "1969",
          "spect_count": "6 524"
         }
-       ]
+       ],
+       "club_name": "Торпедо-БелАЗЖодино"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_Dinamo_Minsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1391",
-         "namestad": "������������ ����������� ������� ������",
-         "country_stad": "����������",
-         "country_city": " �����",
+         "namestad": "Национальный Олимпийский стадион Динамо",
+         "country_stad": "Белоруссия",
+         "country_city": " Минск",
          "stad_open": "1934",
          "spect_count": "22 246"
         }
-       ]
+       ],
+       "club_name": "ДинамоМинск"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_FK_Homel",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1818",
-         "namestad": "����������� �������",
-         "country_stad": "����������",
-         "country_city": " ������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Белоруссия",
+         "country_city": " Гомель",
          "stad_open": "14 307",
          "spect_count": "22 246"
         }
-       ]
+       ],
+       "club_name": "ФК ГомельГомель"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_Neman_Grodno",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1551",
-         "namestad": "������� �����",
-         "country_stad": "����������",
-         "country_city": " ������",
+         "namestad": "Стадион Неман",
+         "country_stad": "Белоруссия",
+         "country_city": " Гродно",
          "stad_open": "1963",
          "spect_count": "8 479"
         }
-       ]
+       ],
+       "club_name": "НеманГродно"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_Dnepr_Mogiliev",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1623",
-         "namestad": "������� �������",
-         "country_stad": "����������",
-         "country_city": " �������",
+         "namestad": "Стадион Спартак",
+         "country_stad": "Белоруссия",
+         "country_city": " Могилев",
          "stad_open": "7 350",
          "spect_count": "8 479"
         }
-       ]
+       ],
+       "club_name": "ДнепрМогилев"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_FK_Vitebsk",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1868",
-         "namestad": "��� ���������",
-         "country_stad": "����������",
-         "country_city": " �������",
+         "namestad": "ЦСК Витебский",
+         "country_stad": "Белоруссия",
+         "country_city": " Витебск",
          "stad_open": "8 144",
          "spect_count": "8 479"
         }
-       ]
+       ],
+       "club_name": "ФК ВитебскВитебск"
       },
       {
        "t_url": "http://wildstat.ru/p/2802/club/BLR_Dinamo_Brest",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1379",
-         "namestad": "���� ���������",
-         "country_stad": "����������",
-         "country_city": " �����",
+         "namestad": "ГОСК Брестский",
+         "country_stad": "Белоруссия",
+         "country_city": " Брест",
          "stad_open": "1989",
          "spect_count": "10 162"
         }
-       ]
+       ],
+       "club_name": "ДинамоБрест"
       }
-     ]
+     ],
+     "league_name": "Кубок Белоруссии 2021/22"
     },
     {
      "l_url": "http://wildstat.ru/p/2803",
@@ -1427,28 +1546,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1651",
-         "namestad": "������� ���������",
-         "country_stad": "����������",
-         "country_city": " ���������",
+         "namestad": "Стадион Строитель",
+         "country_stad": "Белоруссия",
+         "country_city": " Солигорск",
          "stad_open": "4 200",
          "spect_count": "10 162"
         }
-       ]
+       ],
+       "club_name": "ШахтерСолигорск"
       },
       {
        "t_url": "http://wildstat.ru/p/2803/club/BLR_BATE_Borisov",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/7946",
-         "namestad": "�������-�����",
-         "country_stad": "����������",
-         "country_city": " �������",
+         "namestad": "Борисов-Арена",
+         "country_stad": "Белоруссия",
+         "country_city": " Борисов",
          "stad_open": "2014",
          "spect_count": "13 126"
         }
-       ]
+       ],
+       "club_name": "БАТЭБорисов"
       }
-     ]
+     ],
+     "league_name": "Суперкубок Белоруссии 2021"
     }
    ]
   },
@@ -1457,7 +1579,8 @@
    "leagues": [
     {
      "l_url": "http://wildstat.ru/p/3202",
-     "teams": []
+     "teams": [],
+     "league_name": "Кубок Казахстана 2021"
     },
     {
      "l_url": "http://wildstat.ru/p/3203",
@@ -1467,28 +1590,31 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/1826",
-         "namestad": "����������� �������",
-         "country_stad": "���������",
-         "country_city": " ��������",
+         "namestad": "Центральный стадион",
+         "country_stad": "Казахстан",
+         "country_city": " Костанай",
          "stad_open": "1964",
          "spect_count": "8 323"
         }
-       ]
+       ],
+       "club_name": "ТоболКостанай"
       },
       {
        "t_url": "http://wildstat.ru/p/3203/club/KAZ_Lokomotiv_Astana",
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/3805",
-         "namestad": "������ �����",
-         "country_stad": "���������",
-         "country_city": " ���-������",
+         "namestad": "Астана Арена",
+         "country_stad": "Казахстан",
+         "country_city": " Нур-Султан",
          "stad_open": "2009",
          "spect_count": "30 000"
         }
-       ]
+       ],
+       "club_name": "АстанаНур-Султан"
       }
-     ]
+     ],
+     "league_name": "Суперкубок Казахстана 2021"
     }
    ]
   },
@@ -1503,4 +1629,1913 @@
        "stadiums": [
         {
          "s_url": "http://wildstat.ru/map_stadium/5373",
-         "namestad": 
+         "namestad": "Stadionul Sfinţilor",
+         "country_stad": "Молдавия",
+         "country_city": " Суручены",
+         "stad_open": "2009",
+         "spect_count": "1 000"
+        }
+       ],
+       "club_name": "Сфынтул ГеоргеСуручены"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8203/club/MDA_Sherif_Tiraspol",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1094",
+         "namestad": "Stadionul Sheriff",
+         "country_stad": "Молдавия",
+         "country_city": " Тирасполь",
+         "stad_open": "2002",
+         "spect_count": "14 300"
+        }
+       ],
+       "club_name": "ШерифТирасполь"
+      }
+     ],
+     "league_name": "Суперкубок Молдавии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/33",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3303/club/UZB_Lokomotiv_Tashkent",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4743",
+         "namestad": "Стадион Локомотив",
+         "country_stad": "Узбекистан",
+         "country_city": " Ташкент",
+         "stad_open": "15 000",
+         "spect_count": "14 300"
+        }
+       ],
+       "club_name": "ЛокомотивТашкент"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3303/club/UZB_FK_Olmaliq",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8936",
+         "namestad": "OKMK Sport Majmuasi",
+         "country_stad": "Узбекистан",
+         "country_city": " Алмалык",
+         "stad_open": "2014",
+         "spect_count": "12 105"
+        }
+       ],
+       "club_name": "АГМКАлмалык"
+      }
+     ],
+     "league_name": "Суперкубок Узбекистана 2019"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/39",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3903/club/AUT_SV_Horn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7349",
+         "namestad": "Sportplatz Horn",
+         "country_stad": "Австрия",
+         "country_city": " Хорн",
+         "stad_open": "3 000",
+         "spect_count": "12 105"
+        }
+       ],
+       "club_name": "ХорнХорн"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3903/club/AUT_Rapid_Wien",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/449",
+         "namestad": "Allianz Stadion",
+         "country_stad": "Австрия",
+         "country_city": " Вена",
+         "stad_open": "1977",
+         "spect_count": "28 000"
+        }
+       ],
+       "club_name": "РапидВена"
+      }
+     ],
+     "league_name": "Суперкубок Австрии 2008 (неофициальный)"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/23",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2304",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_AFC_Bournemouth",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2260",
+         "namestad": "Dean Court",
+         "country_stad": "Англия",
+         "country_city": " Борнмут",
+         "stad_open": "1910",
+         "spect_count": "11 700"
+        }
+       ],
+       "club_name": "АФК БорнмутБорнмут"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_West_Bromwich_Albion",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1150",
+         "namestad": "The Hawthorns",
+         "country_stad": "Англия",
+         "country_city": " Вест-Бромвич",
+         "stad_open": "1900",
+         "spect_count": "28 003"
+        }
+       ],
+       "club_name": "Вест Бромвич ЭлбионВест-Бромвич"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Fulham",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/186",
+         "namestad": "Craven Cottage",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1896",
+         "spect_count": "25 500"
+        }
+       ],
+       "club_name": "ФулхэмЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Coventry_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2227",
+         "namestad": "Ricoh Arena",
+         "country_stad": "Англия",
+         "country_city": " Ковентри",
+         "stad_open": "2005",
+         "spect_count": "32 500"
+        }
+       ],
+       "club_name": "Ковентри СитиКовентри"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Queens_Park_Rangers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/589",
+         "namestad": "Loftus Road",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1904",
+         "spect_count": "18 200"
+        }
+       ],
+       "club_name": "Куинз Парк РейнджерсЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Stoke_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/130",
+         "namestad": "Britannia Stadium",
+         "country_stad": "Англия",
+         "country_city": " Сток-он-Трент",
+         "stad_open": "1997",
+         "spect_count": "28 383"
+        }
+       ],
+       "club_name": "Сток СитиСток-он-Трент"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Huddersfield_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2472",
+         "namestad": "The John Smith's Stadium",
+         "country_stad": "Англия",
+         "country_city": " Хаддерсфилд",
+         "stad_open": "1994",
+         "spect_count": "24 500"
+        }
+       ],
+       "club_name": "Хаддерсфилд ТаунХаддерсфилд"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Reading_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/600",
+         "namestad": "Madejski Stadium",
+         "country_stad": "Англия",
+         "country_city": " Рединг",
+         "stad_open": "1998",
+         "spect_count": "24 161"
+        }
+       ],
+       "club_name": "РедингРединг"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Luton_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2458",
+         "namestad": "Kenilworth Road",
+         "country_stad": "Англия",
+         "country_city": " Лутон",
+         "stad_open": "1905",
+         "spect_count": "10 300"
+        }
+       ],
+       "club_name": "Лутон ТаунЛутон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Millwall",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1153",
+         "namestad": "The New Den",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1993",
+         "spect_count": "20 146"
+        }
+       ],
+       "club_name": "МиллуоллЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Blackburn_Rovers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/412",
+         "namestad": "Ewood Park",
+         "country_stad": "Англия",
+         "country_city": " Блэкберн",
+         "stad_open": "1882",
+         "spect_count": "31 367"
+        }
+       ],
+       "club_name": "Блэкберн РоверсБлэкберн"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Nottingham_Forest",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/172",
+         "namestad": "The City Ground",
+         "country_stad": "Англия",
+         "country_city": " Ноттингем",
+         "stad_open": "1898",
+         "spect_count": "30 602"
+        }
+       ],
+       "club_name": "Ноттингем ФорестНоттингем"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Derby_County",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/763",
+         "namestad": "Pride Park Stadium",
+         "country_stad": "Англия",
+         "country_city": " Дерби",
+         "stad_open": "1997",
+         "spect_count": "33 597"
+        }
+       ],
+       "club_name": "Дерби КаунтиДерби"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Bristol_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/73",
+         "namestad": "Ashton Gate",
+         "country_stad": "Англия",
+         "country_city": " Бристоль",
+         "stad_open": "1904",
+         "spect_count": "21 497"
+        }
+       ],
+       "club_name": "Бристоль СитиБристоль"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Middlesbrough",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1158",
+         "namestad": "The Riverside Stadium",
+         "country_stad": "Англия",
+         "country_city": " Мидлсбро",
+         "stad_open": "1994",
+         "spect_count": "34 988"
+        }
+       ],
+       "club_name": "МидлсброМидлсбро"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Sheffield_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/127",
+         "namestad": "Bramall Lane",
+         "country_stad": "Англия",
+         "country_city": " Шеффилд",
+         "stad_open": "1855",
+         "spect_count": "32 609"
+        }
+       ],
+       "club_name": "Шеффилд ЮнайтедШеффилд"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Blackpool_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/114",
+         "namestad": "Bloomfield Road",
+         "country_stad": "Англия",
+         "country_city": " Блэкпул",
+         "stad_open": "1900",
+         "spect_count": "12 555"
+        }
+       ],
+       "club_name": "БлэкпулБлэкпул"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/WAL_Swansea_City_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1152",
+         "namestad": "The Liberty Stadium",
+         "country_stad": "Уэльс",
+         "country_city": " Суонси",
+         "stad_open": "2005",
+         "spect_count": "20 532"
+        }
+       ],
+       "club_name": "Суонси СитиСуонси"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Preston_North_End_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2471",
+         "namestad": "Deepdale",
+         "country_stad": "Англия",
+         "country_city": " Престон",
+         "stad_open": "1878",
+         "spect_count": "23 408"
+        }
+       ],
+       "club_name": "Престон Норт ЭндПрестон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Birmingham_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/866",
+         "namestad": "St. Andrews",
+         "country_stad": "Англия",
+         "country_city": " Бирмингем",
+         "stad_open": "1906",
+         "spect_count": "30 009"
+        }
+       ],
+       "club_name": "Бирмингем СитиБирмингем"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/WAL_Cardiff_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2667",
+         "namestad": "Cardiff City Stadium",
+         "country_stad": "Уэльс",
+         "country_city": " Кардифф",
+         "stad_open": "2009",
+         "spect_count": "26 828"
+        }
+       ],
+       "club_name": "Кардифф СитиКардифф"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Hull_City_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/557",
+         "namestad": "KCOM Stadium",
+         "country_stad": "Англия",
+         "country_city": " Кингстон-апон-Халл",
+         "stad_open": "2002",
+         "spect_count": "25 404"
+        }
+       ],
+       "club_name": "Халл СитиКингстон-апон-Халл"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Barnsley_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/697",
+         "namestad": "Oakwell",
+         "country_stad": "Англия",
+         "country_city": " Барнсли",
+         "stad_open": "1994",
+         "spect_count": "23 009"
+        }
+       ],
+       "club_name": "БарнслиБарнсли"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2304/club/ENG_Peterborough_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2329",
+         "namestad": "London Road Stadium",
+         "country_stad": "Англия",
+         "country_city": " Питерборо",
+         "stad_open": "1913",
+         "spect_count": "15 460"
+        }
+       ],
+       "club_name": "Питерборо ЮнайтедПитерборо"
+      }
+     ],
+     "league_name": "Чемпионат Англии 2021/22"
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2305",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Burnley",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1183",
+         "namestad": "Turf Moor",
+         "country_stad": "Англия",
+         "country_city": " Барнли",
+         "stad_open": "1883",
+         "spect_count": "22 546"
+        }
+       ],
+       "club_name": "БарнлиБарнли"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Tottenham_Hotspur",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9854",
+         "namestad": "Tottenham Hotspur Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "2018",
+         "spect_count": "62 062"
+        }
+       ],
+       "club_name": "Тоттенхэм ХотспурЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_West_Ham_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9453",
+         "namestad": "London Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "2011",
+         "spect_count": "60 000"
+        }
+       ],
+       "club_name": "Вест Хэм ЮнайтедЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Manchester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1145",
+         "namestad": "Etihad Stadium",
+         "country_stad": "Англия",
+         "country_city": " Манчестер",
+         "stad_open": "2003",
+         "spect_count": "47 726"
+        }
+       ],
+       "club_name": "Манчестер СитиМанчестер"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Leicester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1221",
+         "namestad": "King Power Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лестер",
+         "stad_open": "2002",
+         "spect_count": "32 312"
+        }
+       ],
+       "club_name": "Лестер СитиЛестер"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Brighton_Hove_Albion_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2229",
+         "namestad": "American Express Community Stadium",
+         "country_stad": "Англия",
+         "country_city": " Брайтон-энд-Хоув",
+         "stad_open": "2011",
+         "spect_count": "22 374"
+        }
+       ],
+       "club_name": "Брайтон энд Хоув ЭлбионБрайтон-энд-Хоув"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Preston_North_End_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2471",
+         "namestad": "Deepdale",
+         "country_stad": "Англия",
+         "country_city": " Престон",
+         "stad_open": "1878",
+         "spect_count": "23 408"
+        }
+       ],
+       "club_name": "Престон Норт ЭндПрестон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Liverpool_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/52",
+         "namestad": "Anfield",
+         "country_stad": "Англия",
+         "country_city": " Ливерпуль",
+         "stad_open": "1884",
+         "spect_count": "54 074"
+        }
+       ],
+       "club_name": "ЛиверпульЛиверпуль"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Stoke_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/130",
+         "namestad": "Britannia Stadium",
+         "country_stad": "Англия",
+         "country_city": " Сток-он-Трент",
+         "stad_open": "1997",
+         "spect_count": "28 383"
+        }
+       ],
+       "club_name": "Сток СитиСток-он-Трент"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Brentford_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/463",
+         "namestad": "Griffin Park",
+         "country_stad": "Англия",
+         "country_city": " Брентфорд",
+         "stad_open": "1904",
+         "spect_count": "12 762"
+        }
+       ],
+       "club_name": "БрентфордБрентфорд"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Arsenal_London",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/220",
+         "namestad": "Emirates Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "2006",
+         "spect_count": "60 355"
+        }
+       ],
+       "club_name": "АрсеналЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Leeds_United",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/217",
+         "namestad": "Elland Road",
+         "country_stad": "Англия",
+         "country_city": " Лидс",
+         "stad_open": "1897",
+         "spect_count": "40 242"
+        }
+       ],
+       "club_name": "Лидс ЮнайтедЛидс"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Queens_Park_Rangers",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/589",
+         "namestad": "Loftus Road",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1904",
+         "spect_count": "18 200"
+        }
+       ],
+       "club_name": "Куинз Парк РейнджерсЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Sunderland",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1105",
+         "namestad": "Stadium of Light",
+         "country_stad": "Англия",
+         "country_city": " Сандерленд",
+         "stad_open": "1997",
+         "spect_count": "49 000"
+        }
+       ],
+       "club_name": "СандерлендСандерленд"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Chelsea_London",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1109",
+         "namestad": "Stamford Bridge",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1877",
+         "spect_count": "42 055"
+        }
+       ],
+       "club_name": "ЧелсиЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2305/club/ENG_Southampton",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2001",
+         "namestad": "St Mary's Stadium",
+         "country_stad": "Англия",
+         "country_city": " Саутгемптон",
+         "stad_open": "2001",
+         "spect_count": "32 689"
+        }
+       ],
+       "club_name": "СаутгемптонСаутгемптон"
+      }
+     ],
+     "league_name": "Кубок Футбольной лиги 2021/22"
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2302",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Havant_and_Waterlooville_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5626",
+         "namestad": "West Leigh Park",
+         "country_stad": "Англия",
+         "country_city": " Хавант",
+         "stad_open": "5 250",
+         "spect_count": "32 689"
+        }
+       ],
+       "club_name": "Хавант энд УотерлувилХавант"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Torquay_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2273",
+         "namestad": "Plainmoor",
+         "country_stad": "Англия",
+         "country_city": " Торки",
+         "stad_open": "1921",
+         "spect_count": "6 104"
+        }
+       ],
+       "club_name": "Торки ЮнайтедТорки"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/WAL_Wrexham_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/782",
+         "namestad": "Racecourse Ground",
+         "country_stad": "Уэльс",
+         "country_city": " Рексхэм",
+         "stad_open": "1872",
+         "spect_count": "15 500"
+        }
+       ],
+       "club_name": "РексхэмРексхэм"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Marine_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5542",
+         "namestad": "The Arriva Stadium",
+         "country_stad": "Англия",
+         "country_city": " Кросби",
+         "stad_open": "1903",
+         "spect_count": "3 185"
+        }
+       ],
+       "club_name": "МаринКросби"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Gateshead_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5535",
+         "namestad": "Gateshead International Stadium",
+         "country_stad": "Англия",
+         "country_city": " Гейтсхед",
+         "stad_open": "1955",
+         "spect_count": "11 800"
+        }
+       ],
+       "club_name": "ГейтсхедГейтсхед"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Marske_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5986",
+         "namestad": "G.E.R. Stadium",
+         "country_stad": "Англия",
+         "country_city": " Марск-бай-зе-Си",
+         "stad_open": "2 500",
+         "spect_count": "11 800"
+        }
+       ],
+       "club_name": "Марск ЮнайтедМарск-бай-зе-Си"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Guiseley_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5681",
+         "namestad": "Nethermoor Park",
+         "country_stad": "Англия",
+         "country_city": " Гисли",
+         "stad_open": "3 000",
+         "spect_count": "11 800"
+        }
+       ],
+       "club_name": "ГислиГисли"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Brackley_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2462",
+         "namestad": "St. James Park",
+         "country_stad": "Англия",
+         "country_city": " Брэкли",
+         "stad_open": "1 500",
+         "spect_count": "11 800"
+        }
+       ],
+       "club_name": "Брэкли ТаунБрэкли"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_FC_Halifax_Town",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2512",
+         "namestad": "The Shay",
+         "country_stad": "Англия",
+         "country_city": " Галифакс",
+         "stad_open": "1921",
+         "spect_count": "6 600"
+        }
+       ],
+       "club_name": "Галифакс ТаунГалифакс"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Pontefract_Collieries_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6021",
+         "namestad": "White Rose Stadium",
+         "country_stad": "Англия",
+         "country_city": " Понтифракт",
+         "stad_open": "1 200",
+         "spect_count": "6 600"
+        }
+       ],
+       "club_name": "Понтифракт КолиеризПонтифракт"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Morpeth_Town_AFC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5992",
+         "namestad": "Craik Park",
+         "country_stad": "Англия",
+         "country_city": " Морпет",
+         "stad_open": "1 200",
+         "spect_count": "6 600"
+        }
+       ],
+       "club_name": "Морпет ТаунМорпет"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_York_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2443",
+         "namestad": "Bootham Crescent",
+         "country_stad": "Англия",
+         "country_city": " Йорк",
+         "stad_open": "1932",
+         "spect_count": "9 196"
+        }
+       ],
+       "club_name": "Йорк СитиЙорк"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Buxton_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5581",
+         "namestad": "The Silverlands",
+         "country_stad": "Англия",
+         "country_city": " Бакстон",
+         "stad_open": "5 200",
+         "spect_count": "9 196"
+        }
+       ],
+       "club_name": "БакстонБакстон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Kettering_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8770",
+         "namestad": "Latimer Park",
+         "country_stad": "Англия",
+         "country_city": " Кеттеринг",
+         "stad_open": "5 200",
+         "spect_count": "9 196"
+        }
+       ],
+       "club_name": "Кеттеринг ТаунКеттеринг"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Stratford_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5776",
+         "namestad": "The DCS Stadium",
+         "country_stad": "Англия",
+         "country_city": " Стратфорд-апон-Эйвон",
+         "stad_open": "5 200",
+         "spect_count": "9 196"
+        }
+       ],
+       "club_name": "Стратфорд ТаунСтратфорд-апон-Эйвон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Boston_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2485",
+         "namestad": "York Street Stadium",
+         "country_stad": "Англия",
+         "country_city": " Бостон",
+         "stad_open": "1933",
+         "spect_count": "6 643"
+        }
+       ],
+       "club_name": "Бостон ЮнайтедБостон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Notts_County_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2267",
+         "namestad": "Meadow Lane",
+         "country_stad": "Англия",
+         "country_city": " Ноттингем",
+         "stad_open": "1910",
+         "spect_count": "19 588"
+        }
+       ],
+       "club_name": "Ноттс КаунтиНоттингем"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Tamworth_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5620",
+         "namestad": "The Lamb Ground",
+         "country_stad": "Англия",
+         "country_city": " Тамуорт",
+         "stad_open": "1934",
+         "spect_count": "4 195"
+        }
+       ],
+       "club_name": "ТамуортТамуорт"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Hayes_and_Yeading_United_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/10192",
+         "namestad": "Beaconsfield Road Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "1934",
+         "spect_count": "4 195"
+        }
+       ],
+       "club_name": "Хейз энд Йединг ЮнайтедЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Dorking_Wanderers_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8656",
+         "namestad": "Westhumble Playing Fields",
+         "country_stad": "Англия",
+         "country_city": " Доркинг",
+         "stad_open": "1934",
+         "spect_count": "4 195"
+        }
+       ],
+       "club_name": "Доркинг УондерерсДоркинг"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_St_Albans_City_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2669",
+         "namestad": "Clarence Park",
+         "country_stad": "Англия",
+         "country_city": " Сент-Олбанс",
+         "stad_open": "1894",
+         "spect_count": "4 500"
+        }
+       ],
+       "club_name": "Сент-Олбанс СитиСент-Олбанс"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Corinthian-Casuals_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5451",
+         "namestad": "King George's Fields",
+         "country_stad": "Англия",
+         "country_city": " Лондон",
+         "stad_open": "2 700",
+         "spect_count": "4 500"
+        }
+       ],
+       "club_name": "Коринтиен-КэжуэлзЛондон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Weymouth_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2447",
+         "namestad": "Bob Lucas Stadium",
+         "country_stad": "Англия",
+         "country_city": " Уэймут",
+         "stad_open": "1987",
+         "spect_count": "6 600"
+        }
+       ],
+       "club_name": "УэймутУэймут"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Yeovil_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2331",
+         "namestad": "Huish Park",
+         "country_stad": "Англия",
+         "country_city": " Йовил",
+         "stad_open": "1990",
+         "spect_count": "5 212"
+        }
+       ],
+       "club_name": "Йовил ТаунЙовил"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Folkestone_Invicta_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5489",
+         "namestad": "Cheriton Road",
+         "country_stad": "Англия",
+         "country_city": " Фолкстон",
+         "stad_open": "6 500",
+         "spect_count": "5 212"
+        }
+       ],
+       "club_name": "Фолкстон ИнвиктаФолкстон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Eastleigh_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5725",
+         "namestad": "Silverlake Stadium",
+         "country_stad": "Англия",
+         "country_city": " Истлей",
+         "stad_open": "3 000",
+         "spect_count": "5 212"
+        }
+       ],
+       "club_name": "ИстлейИстлей"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Yate_Town_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5816",
+         "namestad": "Lodge Road",
+         "country_stad": "Англия",
+         "country_city": " Йейт",
+         "stad_open": "6 745",
+         "spect_count": "5 212"
+        }
+       ],
+       "club_name": "Йейт ТаунЙейт"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2302/club/ENG_Dover_Athletic_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/5706",
+         "namestad": "Crabble Athletic Ground",
+         "country_stad": "Англия",
+         "country_city": " Ривер",
+         "stad_open": "1931",
+         "spect_count": "6 500"
+        }
+       ],
+       "club_name": "Дувр АтлетикДувр"
+      }
+     ],
+     "league_name": "Кубок Англии 2021/22"
+    },
+    {
+     "l_url": "http://wildstat.ru/p/2303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2303/club/ENG_Leicester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1221",
+         "namestad": "King Power Stadium",
+         "country_stad": "Англия",
+         "country_city": " Лестер",
+         "stad_open": "2002",
+         "spect_count": "32 312"
+        }
+       ],
+       "club_name": "Лестер СитиЛестер"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2303/club/ENG_Manchester_City",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1145",
+         "namestad": "Etihad Stadium",
+         "country_stad": "Англия",
+         "country_city": " Манчестер",
+         "stad_open": "2003",
+         "spect_count": "47 726"
+        }
+       ],
+       "club_name": "Манчестер СитиМанчестер"
+      }
+     ],
+     "league_name": "Суперкубок Англии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/89",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8903/club/BEL_Club_Brugge_KV",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/523",
+         "namestad": "Jan Breydelstadion",
+         "country_stad": "Бельгия",
+         "country_city": " Брюгге",
+         "stad_open": "1975",
+         "spect_count": "29 042"
+        }
+       ],
+       "club_name": "БрюггеБрюгге"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8903/club/BEL_KRC_Genk",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/188",
+         "namestad": "Luminus Arena",
+         "country_stad": "Бельгия",
+         "country_city": " Генк",
+         "stad_open": "24 604",
+         "spect_count": "29 042"
+        }
+       ],
+       "club_name": "ГенкГенк"
+      }
+     ],
+     "league_name": "Суперкубок Бельгии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/83",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8303",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8303/club/BUL_PFC_Ludogorets_Razgrad",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/7657",
+         "namestad": "Лудогорец Арена",
+         "country_stad": "Болгария",
+         "country_city": " Разград",
+         "stad_open": "6 000",
+         "spect_count": "29 042"
+        }
+       ],
+       "club_name": "ЛудогорецРазград"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8303/club/BUL_CSKA_Sofia",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1355",
+         "namestad": "Стадион Българска армия",
+         "country_stad": "Болгария",
+         "country_city": " София",
+         "stad_open": "1923",
+         "spect_count": "22 015"
+        }
+       ],
+       "club_name": "ЦСКАСофия"
+      }
+     ],
+     "league_name": "Суперкубок Болгарии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/72",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7203",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7203/club/HUN_FC_Fehervar",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/815",
+         "namestad": "MOL Aréna Sóstó",
+         "country_stad": "Венгрия",
+         "country_city": " Секешфехервар",
+         "stad_open": "1967",
+         "spect_count": "10 900"
+        }
+       ],
+       "club_name": "МОЛ ФехерварСекешфехервар"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7203/club/HUN_Ferencvaros_Budapest",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2111",
+         "namestad": "Groupama Arena",
+         "country_stad": "Венгрия",
+         "country_city": " Будапешт",
+         "stad_open": "1974",
+         "spect_count": "23 700"
+        }
+       ],
+       "club_name": "ФеренцварошБудапешт"
+      }
+     ],
+     "league_name": "Суперкубок Венгрии 2015"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/25",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2503",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2503/club/GER_Borussia_Dortmund",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/842",
+         "namestad": "Signal Iduna Park",
+         "country_stad": "Германия",
+         "country_city": " Дортмунд",
+         "stad_open": "1974",
+         "spect_count": "80 552"
+        }
+       ],
+       "club_name": "БоруссияДортмунд"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2503/club/GER_Bayern_Muenchen",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/44",
+         "namestad": "Allianz Arena",
+         "country_stad": "Германия",
+         "country_city": " Мюнхен",
+         "stad_open": "2005",
+         "spect_count": "66 000"
+        }
+       ],
+       "club_name": "БаварияМюнхен"
+      }
+     ],
+     "league_name": "Суперкубок Германии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/30",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3002",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3002/club/HOL_Ajax_Amsterdam",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/49",
+         "namestad": "Johan Cruijff ArenA",
+         "country_stad": "Голландия",
+         "country_city": " Амстердам",
+         "stad_open": "1996",
+         "spect_count": "51 628"
+        }
+       ],
+       "club_name": "АяксАмстердам"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3002/club/HOL_PSV_Eindhoven",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/752",
+         "namestad": "Philips Stadion",
+         "country_stad": "Голландия",
+         "country_city": " Эйндховен",
+         "stad_open": "1913",
+         "spect_count": "35 119"
+        }
+       ],
+       "club_name": "ПСВЭйндховен"
+      }
+     ],
+     "league_name": "Кубок Йохана Кройфа 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/77",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7702",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7702/club/GEO_Dinamo_Tbilisi",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/122",
+         "namestad": "Стадион Динамо им. Бориса Пайчадзе",
+         "country_stad": "Грузия",
+         "country_city": " Тбилиси",
+         "stad_open": "1936",
+         "spect_count": "54 549"
+        }
+       ],
+       "club_name": "ДинамоТбилиси"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7702/club/GEO_FC_Gagra",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/122",
+         "namestad": "Стадион Динамо им. Бориса Пайчадзе",
+         "country_stad": "Грузия",
+         "country_city": " Тбилиси",
+         "stad_open": "1936",
+         "spect_count": "54 549"
+        }
+       ],
+       "club_name": "ГаграГагра"
+      }
+     ],
+     "league_name": "Суперкубок Грузии 2021Грузия"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/87",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/24",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2402",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2402/club/ESP_FC_Barcelona",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/140",
+         "namestad": "Camp Nou",
+         "country_stad": "Испания",
+         "country_city": " Барселона",
+         "stad_open": "1957",
+         "spect_count": "98 772"
+        }
+       ],
+       "club_name": "БарселонаБарселона"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2402/club/ESP_Athletic_Bilbao",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/8658",
+         "namestad": "Estadio de San Mamés",
+         "country_stad": "Испания",
+         "country_city": " Бильбао",
+         "stad_open": "2013",
+         "spect_count": "53 332"
+        }
+       ],
+       "club_name": "АтлетикБильбао"
+      }
+     ],
+     "league_name": "Суперкубок Испании 2020"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/22",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2202",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2202/club/ITA_Juventus_Torino",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1017",
+         "namestad": "Allianz Stadium",
+         "country_stad": "Италия",
+         "country_city": " Турин",
+         "stad_open": "1990",
+         "spect_count": "41 000"
+        }
+       ],
+       "club_name": "ЮвентусТурин"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2202/club/ITA_SSC_Napoli",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1040",
+         "namestad": "Stadio Diego Armando Maradona",
+         "country_stad": "Италия",
+         "country_city": " Неаполь",
+         "stad_open": "1959",
+         "spect_count": "54 726"
+        }
+       ],
+       "club_name": "НаполиНеаполь"
+      }
+     ],
+     "league_name": "Суперкубок Италии 2020"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/79",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7903",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7903/club/LAT_Daugava",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2994",
+         "namestad": "Daugavas stadions",
+         "country_stad": "Латвия",
+         "country_city": " Даугавпилс",
+         "stad_open": "1 300",
+         "spect_count": "54 726"
+        }
+       ],
+       "club_name": "ДаугаваДаугавпилс"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7903/club/LAT_Skonto_Riga",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/846",
+         "namestad": "Skonto stadions",
+         "country_stad": "Латвия",
+         "country_city": " Рига",
+         "stad_open": "2000",
+         "spect_count": "10 007"
+        }
+       ],
+       "club_name": "СконтоРига"
+      }
+     ],
+     "league_name": "Суперкубок Латвии 2013"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/38",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3803",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3803/club/LTU_Zhalgiris_Vilnius",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1247",
+         "namestad": "Žalgirio stadionas",
+         "country_stad": "Литва",
+         "country_city": " Вильнюс",
+         "stad_open": "1950",
+         "spect_count": "15 030"
+        }
+       ],
+       "club_name": "ЖальгирисВильнюс"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3803/club/LTU_FK_Panevezys",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/88",
+         "namestad": "Aukštaitijos stadionas",
+         "country_stad": "Литва",
+         "country_city": " Паневежис",
+         "stad_open": "1965",
+         "spect_count": "4 000"
+        }
+       ],
+       "club_name": "ПаневежисПаневежис"
+      }
+     ],
+     "league_name": "Суперкубок Литвы 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/88",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/37",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3702",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3702/club/POL_Legia_Warszawa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1082",
+         "namestad": "Stadion Wojska Polskiego imienia Marszałka Józefa Piłsudskiego",
+         "country_stad": "Польша",
+         "country_city": " Варшава",
+         "stad_open": "1930",
+         "spect_count": "31 103"
+        }
+       ],
+       "club_name": "ЛегияВаршава"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3702/club/POL_RKS_Rakow_Czestochowa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/6712",
+         "namestad": "Miejski Stadion Piłkarski Raków",
+         "country_stad": "Польша",
+         "country_city": " Ченстохова",
+         "stad_open": "1965",
+         "spect_count": "8 000"
+        }
+       ],
+       "club_name": "РакувЧенстохова"
+      }
+     ],
+     "league_name": "Суперкубок Польши 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/27",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2703",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2703/club/POR_Sporting_CP_Lisboa",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/256",
+         "namestad": "Estádio José Alvalade",
+         "country_stad": "Португалия",
+         "country_city": " Лиссабон",
+         "stad_open": "2003",
+         "spect_count": "50 044"
+        }
+       ],
+       "club_name": "СпортингЛиссабон"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2703/club/POR_Sporting_Braga",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/258",
+         "namestad": "Estádio Municipal de Braga",
+         "country_stad": "Португалия",
+         "country_city": " Брага",
+         "stad_open": "2003",
+         "spect_count": "30 154"
+        }
+       ],
+       "club_name": "СпортингБрага"
+      }
+     ],
+     "league_name": "Суперкубок Кадиду ди Оливейры 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/81",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/86",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8603/club/SLO_Koper",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/3420",
+         "namestad": "SRC Bonifika Stadion",
+         "country_stad": "Словения",
+         "country_city": " Копер",
+         "stad_open": "1962",
+         "spect_count": "4 500"
+        }
+       ],
+       "club_name": "КоперКопер"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8603/club/SLO_Maribor_Branik",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1065",
+         "namestad": "Stadion Ljudski vrt",
+         "country_stad": "Словения",
+         "country_city": " Марибор",
+         "stad_open": "1962",
+         "spect_count": "12 435"
+        }
+       ],
+       "club_name": "МариборМарибор"
+      }
+     ],
+     "league_name": "Суперкубок Словении 2015"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/26",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/2603/club/FRA_Lille_OSC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/3718",
+         "namestad": "Stade Pierre-Mauroy",
+         "country_stad": "Франция",
+         "country_city": " Лилль",
+         "stad_open": "2012",
+         "spect_count": "50 186"
+        }
+       ],
+       "club_name": "ЛилльЛилль"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/2603/club/FRA_Paris_St_Germain",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/735",
+         "namestad": "Parc des Princes",
+         "country_stad": "Франция",
+         "country_city": " Париж",
+         "stad_open": "1897",
+         "spect_count": "45 500"
+        }
+       ],
+       "club_name": "Пари Сен-ЖерменПариж"
+      }
+     ],
+     "league_name": "Трофей чемпионов 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/85",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8503",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8503/club/CRO_Dinamo_Zagreb",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1067",
+         "namestad": "Stadion Maksimir",
+         "country_stad": "Хорватия",
+         "country_city": " Загреб",
+         "stad_open": "1912",
+         "spect_count": "38 923"
+        }
+       ],
+       "club_name": "ДинамоЗагреб"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8503/club/CRO_FC_NK_Rijeka",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/9449",
+         "namestad": "Stadion Rujevica",
+         "country_stad": "Хорватия",
+         "country_city": " Риека",
+         "stad_open": "2015",
+         "spect_count": "6 011"
+        }
+       ],
+       "club_name": "РиекаРиека"
+      }
+     ],
+     "league_name": "Суперкубок Хорватии 2020"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/80",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/35",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3502",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3502/club/CZE_FC_Viktoria_Plzen",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2201",
+         "namestad": "Doosan Arena",
+         "country_stad": "Чехия",
+         "country_city": " Пльзень",
+         "stad_open": "1955",
+         "spect_count": "11 700"
+        }
+       ],
+       "club_name": "ВикторияПльзень"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3502/club/CZE_FC_Slovan_Liberec",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1077",
+         "namestad": "Stadion u Nisy",
+         "country_stad": "Чехия",
+         "country_city": " Либерец",
+         "stad_open": "1934",
+         "spect_count": "9 090"
+        }
+       ],
+       "club_name": "СлованЛиберец"
+      }
+     ],
+     "league_name": "Суперкубок Чехии 2015"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/84",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/8403",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/8403/club/SWE_IFK_Norrkoeping",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/684",
+         "namestad": "PlatinumCars Arena",
+         "country_stad": "Швеция",
+         "country_city": " Норрчёпинг",
+         "stad_open": "1903",
+         "spect_count": "19 414"
+        }
+       ],
+       "club_name": "НоррчёпингНоррчёпинг"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/8403/club/SWE_IFK_Goeteborg",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/441",
+         "namestad": "Gamla Ullevi",
+         "country_stad": "Швеция",
+         "country_city": " Гётеборг",
+         "stad_open": "1916",
+         "spect_count": "18 000"
+        }
+       ],
+       "club_name": "ГетеборгГетеборг"
+      }
+     ],
+     "league_name": "Суперкубок Швеции 2015"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/29",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/2905",
+     "teams": [],
+     "league_name": "Кубок шотландской лиги 2021/22"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/76",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/7603",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/7603/club/EST_Flora_Tallinn",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/11",
+         "namestad": "A. Le Coq Arena",
+         "country_stad": "Эстония",
+         "country_city": " Таллин",
+         "stad_open": "2001",
+         "spect_count": "15 000"
+        }
+       ],
+       "club_name": "ФлораТаллин"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/7603/club/EST_Paide_Linnameeskond",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/4642",
+         "namestad": "Paide Ühisgümnaasiumi Staadion",
+         "country_stad": "Эстония",
+         "country_city": " Пайде",
+         "stad_open": "268",
+         "spect_count": "15 000"
+        }
+       ],
+       "club_name": "ПайдеПайде"
+      }
+     ],
+     "league_name": "Суперкубок Эстонии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/34",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/31",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3103",
+     "teams": [],
+     "league_name": "Кубок Бразилии 2021"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/74",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/71",
+   "leagues": []
+  },
+  {
+   "c_url": "http://wildstat.ru/p/36",
+   "leagues": [
+    {
+     "l_url": "http://wildstat.ru/p/3602",
+     "teams": [
+      {
+       "t_url": "http://wildstat.ru/p/3602/club/CHN_Shanghai_East_Asia_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/2123",
+         "namestad": "Shanghai Stadium",
+         "country_stad": "Китай",
+         "country_city": " Шанхай",
+         "stad_open": "1997",
+         "spect_count": "65 000"
+        }
+       ],
+       "club_name": "Шанхай ПортШанхай"
+      },
+      {
+       "t_url": "http://wildstat.ru/p/3602/club/CHN_Beijing_Guoan_FC",
+       "stadiums": [
+        {
+         "s_url": "http://wildstat.ru/map_stadium/1238",
+         "namestad": "Workers Stadium",
+         "country_stad": "Китай",
+         "country_city": " Пекин",
+         "stad_open": "1959",
+         "spect_count": "70 161"
+        }
+       ],
+       "club_name": "Бэйцзин ГоаньПекин"
+      }
+     ],
+     "league_name": "Суперкубок Китая 2019"
+    }
+   ]
+  },
+  {
+   "c_url": "http://wildstat.ru/p/73",
+   "leagues": []
+  }
+ ]
+}
