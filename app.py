@@ -2,6 +2,9 @@ import requests, re, json
 from bs4 import BeautifulSoup
 
 OUT_FILENAME = 'out.json'
+f = open( "Страны и языки.json" , "rb" )
+jsonObject = json.load(f)
+f.close()
 
 def dump_to_json(filename, data, **kwargs):
     kwargs.setdefault('ensure_ascii', False)
@@ -96,18 +99,19 @@ for div_countries in countries:
                                                 if td.find('h2'):
                                                     geoloc = td.find('h2').text.split(",")
                                                     country_stad = geoloc[0]
-                                                    country_city = geoloc[1]
+                                                    stad_city = geoloc[1]
                                                 if td.find('b'):
                                                     barr = td.find_all('b')
                                                     stad_open = barr[0].text
                                                     if len(barr) > 1 :
                                                         spect_count = barr[1].text
-                                            if namestad and country_stad and country_city and stad_open and spect_count:
+                                            if namestad and country_stad and stad_city and stad_open and spect_count:
                                                 s_item ={
                                                     's_url': s_url,
                                                     'namestad': namestad,
                                                     'country_stad': country_stad,
-                                                    'country_city': country_city,
+                                                    'stad_city': stad_city,
+                                                    'language': jsonObject[country_stad],
                                                     'stad_open': stad_open, 
                                                     'spect_count': spect_count,
                                                 }
