@@ -27,9 +27,11 @@ c_items = []
 country_links = []
 league_links = []
 team_links = []
+stadium_links = []
 xc = 0
 xl = 0
 xt = 0
+xs = 0
 
 
 countries = soup.find_all('div', class_='dmn-left-g') # Страны в блоках div
@@ -65,8 +67,27 @@ for div_countries in countries:
                         team_links.append(t_url)
                         print("\tteam:"+str(xt)+t_url)
                         xt = xt+1
+
+                        soup3 = get_soup(t_url)
+                        stadiums = soup3.find_all('a')
+                        s_items = []
+                        for a_stadiums in stadiums:
+                            href_stadiums = a_stadiums.get('href')
+                            if '/map_stadium/' in href_stadiums:
+                                s_url = "http://wildstat.ru" + href_stadiums
+                                stadium_links.append(s_url)
+                                print("\tStadium:"+str(xs)+s_url)
+                                xs = xs+1 
+
+                                s_item ={
+                                    's_url': s_url,
+                                }
+                                s_items.append(s_item)
+
+
                         t_item = {
                             't_url': t_url,
+                            'stadiums': s_items,
                         }    
                         t_items.append(t_item)               
                 l_item = {
