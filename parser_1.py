@@ -58,11 +58,6 @@ source = 'http://wildstat.ru/p/2' #Стартовая страница(по ум
 soup = get_soup(source)
 c_items = []
 
-
-country_links = []
-league_links = []
-team_links = []
-stadium_links = []
 xc = 0
 xl = 0
 xt = 0
@@ -75,7 +70,6 @@ for div_countries in countries:
     for a_countries in div_countries:
         href_countries = a_countries.get('href')
         c_url = "http://wildstat.ru" + href_countries 
-        country_links.append(c_url) 
         print("\tSTRANA:"+str(xc)+c_url)
         xc = xc+1 
 
@@ -88,7 +82,6 @@ for div_countries in countries:
             for a_leagues in div_leagues:
                 href_leagues = a_leagues.get('href')
                 l_url = "http://wildstat.ru" + href_leagues 
-                league_links.append(l_url)
                 print("\tLIGA:"+str(xl)+l_url)
                 xl = xl+1 
                    
@@ -103,7 +96,6 @@ for div_countries in countries:
                         href_teams = a_teams.get('href')
                         if '/club/' in href_teams:
                             t_url = "http://wildstat.ru" + href_teams                             
-                            team_links.append(t_url)
                             print("\tteam:"+str(xt)+t_url)
                             xt = xt+1
 
@@ -121,7 +113,6 @@ for div_countries in countries:
                                             href_stadiums = stadiums.get('href')
                                             if '/map_stadium/' in href_stadiums:
                                                 s_url = "http://wildstat.ru" + href_stadiums
-                                                stadium_links.append(s_url)
                                                 print("\tStadium:"+str(xs)+s_url)
                                                 xs = xs+1
 
