@@ -121,6 +121,6 @@ def crawl_stadiums(pages_count):
     return stadiumss
                            
 #dump_to_json(OUT_FILENAME, stadiumss) 
-dump_to_xlsx(OUT_XLSX_FILENAME, crawl_stadiums(2))  
+dump_to_xlsx(OUT_XLSX_FILENAME, crawl_stadiums(5))  
 
 
