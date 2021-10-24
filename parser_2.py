@@ -81,85 +81,92 @@ def crawl_stadiums(pages_count):
                 if 'competitions' in url:
                     print('Ссылка на лигу - ' + url)
                     soup1 = get_soup('https://soccer365.ru' + url)
-                    l_name = soup1.find('h1', class_='profile_info_title red').text
-                    print(l_name)
-                    soup2 = get_soup('https://soccer365.ru' + url + 'stadiums/')
-                    if soup2:
-                        stads_table = soup2.find('table', id = 'stadiums')
-                        s_arr_a = stads_table.find_all('a')
-                        for a_s in s_arr_a:
-                            surl = a_s.get('href')
-                            if 'stadiums' in surl:
-                                s_source = ('https://soccer365.ru' + surl)
-                                print(s_source)
-                                soup3 = get_soup(s_source)
-                                s_name = soup3.find('h1', class_='profile_info_title red').text
-                                print(s_name)
-                                param_table = soup3.find('table', class_='profile_params')
-                                tds = param_table.find_all('td')
-                                keys = []
-                                values = []
-                                for idv, valtd in enumerate(tds):
-                                    if valtd.get('class'):                        
-                                        keys.append(valtd.text)
-                                        keys.append('Стадион')
-                                        keys.append('Язык')
-                                        keys.append('Лига')
-                                        valx = tds[idv+1].text
-                                        valx = re.sub("^\s+|\n|\r|\t|\xa0|\s+$", '', valx)     
-                                        valx = valx.replace("|", ", ")              
-                                        values.append(valx)
-                                        values.append(s_name)
-                                        if values[0] in jsonObject.keys():
-                                            values.append(jsonObject[values[0]])
-                                        else: 
-                                            values.append('None')
-                                        values.append(l_name)
-                                        availability = ['Страна', 'Город', 'Вместимость', 'Год открытия', 'Размеры поля', 'Команды']
-                                        for check in availability:
-                                            if not check in keys:
-                                                keys.append(check)
-                                                values.append('None')                       
-                                if keys and values:
-                                    xsw = dict(zip(keys, values))
+                    if soup1 is not None:
+                        if soup1.find('h1', class_='profile_info_title red') is not None:
+                            l_name = soup1.find('h1', class_='profile_info_title red').text
+                            if l_name is not None:
+                                print(l_name)
+                            soup2 = get_soup('https://soccer365.ru' + url + 'stadiums/')
+                            if soup2 is not None:
+                                stads_table = soup2.find('table', id = 'stadiums')
+                                if stads_table:
+                                    s_arr_a = stads_table.find_all('a')
+                                    for a_s in s_arr_a:
+                                        surl = a_s.get('href')
+                                        if 'stadiums' in surl:
+                                            s_source = ('https://soccer365.ru' + surl)
+                                            print(s_source)
+                                            soup3 = get_soup(s_source)
+                                            s_name = soup3.find('h1', class_='profile_info_title red').text
+                                            print(s_name)
+                                            param_table = soup3.find('table', class_='profile_params')
+                                            tds = param_table.find_all('td')
+                                            keys = []
+                                            values = []
+                                            for idv, valtd in enumerate(tds):
+                                                if valtd.get('class'):                        
+                                                    keys.append(valtd.text)
+                                                    keys.append('Стадион')
+                                                    keys.append('Язык')
+                                                    keys.append('Лига')
+                                                    valx = tds[idv+1].text
+                                                    valx = re.sub("^\s+|\n|\r|\t|\xa0|\s+$", '', valx)     
+                                                    valx = valx.replace("|", ", ")              
+                                                    values.append(valx)
+                                                    values.append(s_name)
+                                                    if values[0] in jsonObject.keys():
+                                                        values.append(jsonObject[values[0]])
+                                                    else: 
+                                                        values.append('None')
+                                                    if l_name:
+                                                        values.append(l_name)
+                                                    else:
+                                                        values.append('None')
+                                                    availability = ['Страна', 'Город', 'Вместимость', 'Год открытия', 'Размеры поля', 'Команды']
+                                                    for check in availability:
+                                                        if not check in keys:
+                                                            keys.append(check)
+                                                            values.append('None')                       
+                                            if keys and values:
+                                                xsw = dict(zip(keys, values))
 
-                                    # БЮДЖЕТ КОМАНДЫ  #############################
-                                    xsw['Бюджет команды'] = 'None'
-                                    my_st = xsw['Команды'].split(",")
-                                    budget_query = f"https://www.google.com/search?q=бюджет%20клуба%20{my_st[0]}"
-                                    budget_query = budget_query.replace(' ', '%20')
-                                    print(budget_query)
-                                    try:
-                                        headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0"}
-                                        requestspider = requests.get(budget_query, headers=headers, verify=False, timeout=3)                                  
-                                        if requestspider.status_code == 200:
-                                            soup4 = BeautifulSoup(requestspider.content, "html.parser")    
-                                            if soup4.find('div', class_='iKJnec'):                         
-                                                b_header = soup4.find('div', class_='iKJnec').text
+                                                # БЮДЖЕТ КОМАНДЫ  #############################
+                                                xsw['Бюджет команды'] = 'None'
+                                                my_st = xsw['Команды'].split(",")
+                                                budget_query = f"https://www.google.com/search?q=бюджет%20клуба%20{my_st[0]}"
+                                                budget_query = budget_query.replace(' ', '%20')
+                                                print(budget_query)
+                                                try:
+                                                    headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0"}
+                                                    requestspider = requests.get(budget_query, headers=headers, verify=False, timeout=3)                                  
+                                                    if requestspider.status_code == 200:
+                                                        soup4 = BeautifulSoup(requestspider.content, "html.parser")    
+                                                        if soup4.find('div', class_='iKJnec'):                         
+                                                            b_header = soup4.find('div', class_='iKJnec').text
 
-                                                print(b_header)
-                                                if '(футбольный клуб' in b_header:
-                                                    bud_table = soup4.find('table')
-                                                    bud_tds = bud_table.find_all('td')
-                                                    for idb, bvaltd in enumerate(bud_tds):
-                                                        if bvaltd.get('style') and bvaltd.text == 'Бюджет':
-                                                            print(bud_tds[idb+1].text)
-                                                            xsw['Бюджет команды'] = bud_tds[idb+1].text
-                                                
-                                                if 'Футбольные клубы с бюджетом свыше 100 млн долларов США' in b_header or 'Футбольные клубы с бюджетом от 70 до 100 млн долларов США' in b_header or 'Футбольные клубы с бюджетом от 50 до 70 млн долларов США':
-                                                    bud_table = soup4.find('table')
-                                                    bud_tds = bud_table.find_all('td')
-                                                    for idb, bvaltd in enumerate(bud_tds):
-                                                        if bvaltd.get('style') and (bvaltd.text in my_st[0] or my_st[0] in bvaltd.text):
-                                                            print(bud_tds[idb+1].text)
-                                                            xsw['Бюджет команды'] = bud_tds[idb+1].text + 'млн. $'                                    
-                                    except requests.Timeout as err:
-                                        pass                            
-                                    ###############################################
+                                                            print(b_header)
+                                                            if '(футбольный клуб' in b_header:
+                                                                bud_table = soup4.find('table')
+                                                                bud_tds = bud_table.find_all('td')
+                                                                for idb, bvaltd in enumerate(bud_tds):
+                                                                    if bvaltd.get('style') and bvaltd.text == 'Бюджет':
+                                                                        print(bud_tds[idb+1].text)
+                                                                        xsw['Бюджет команды'] = bud_tds[idb+1].text
+                                                            
+                                                            if 'Футбольные клубы с бюджетом свыше 100 млн долларов США' in b_header or 'Футбольные клубы с бюджетом от 70 до 100 млн долларов США' in b_header or 'Футбольные клубы с бюджетом от 50 до 70 млн долларов США':
+                                                                bud_table = soup4.find('table')
+                                                                bud_tds = bud_table.find_all('td')
+                                                                for idb, bvaltd in enumerate(bud_tds):
+                                                                    if bvaltd.get('style') and (bvaltd.text in my_st[0] or my_st[0] in bvaltd.text):
+                                                                        print(bud_tds[idb+1].text)
+                                                                        xsw['Бюджет команды'] = bud_tds[idb+1].text + 'млн. $'                                    
+                                                except requests.Timeout as err:
+                                                    pass                            
+                                                ###############################################
 
-                                    if 'Погода' in keys:
-                                        del xsw['Погода']
-                                    stadiumss.append(xsw)
+                                                if 'Погода' in keys:
+                                                    del xsw['Погода']
+                                                stadiumss.append(xsw)
 
     return stadiumss
 
